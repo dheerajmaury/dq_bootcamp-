@@ -1,0 +1,2051 @@
+row_num,file,column,issue,dimension,example
+16,customers.csv,email,Missing email,Completeness,
+26,customers.csv,email,Missing email,Completeness,
+37,customers.csv,email,Missing email,Completeness,
+39,customers.csv,email,Missing email,Completeness,
+41,customers.csv,email,Missing email,Completeness,
+43,customers.csv,email,Missing email,Completeness,
+47,customers.csv,email,Missing email,Completeness,
+49,customers.csv,email,Missing email,Completeness,
+62,customers.csv,email,Missing email,Completeness,
+66,customers.csv,email,Missing email,Completeness,
+68,customers.csv,email,Missing email,Completeness,
+83,customers.csv,email,Missing email,Completeness,
+85,customers.csv,email,Missing email,Completeness,
+89,customers.csv,email,Missing email,Completeness,
+93,customers.csv,email,Missing email,Completeness,
+102,customers.csv,email,Missing email,Completeness,
+108,customers.csv,email,Missing email,Completeness,
+123,customers.csv,email,Missing email,Completeness,
+125,customers.csv,email,Missing email,Completeness,
+136,customers.csv,email,Missing email,Completeness,
+164,customers.csv,email,Missing email,Completeness,
+167,customers.csv,email,Missing email,Completeness,
+170,customers.csv,email,Missing email,Completeness,
+171,customers.csv,email,Missing email,Completeness,
+173,customers.csv,email,Missing email,Completeness,
+186,customers.csv,email,Missing email,Completeness,
+191,customers.csv,email,Missing email,Completeness,
+206,customers.csv,email,Missing email,Completeness,
+209,customers.csv,email,Missing email,Completeness,
+0,customers.csv,phone,Missing phone,Completeness,
+2,customers.csv,phone,Missing phone,Completeness,
+5,customers.csv,phone,Missing phone,Completeness,
+36,customers.csv,phone,Missing phone,Completeness,
+37,customers.csv,phone,Missing phone,Completeness,
+54,customers.csv,phone,Missing phone,Completeness,
+57,customers.csv,phone,Missing phone,Completeness,
+62,customers.csv,phone,Missing phone,Completeness,
+69,customers.csv,phone,Missing phone,Completeness,
+72,customers.csv,phone,Missing phone,Completeness,
+91,customers.csv,phone,Missing phone,Completeness,
+102,customers.csv,phone,Missing phone,Completeness,
+105,customers.csv,phone,Missing phone,Completeness,
+109,customers.csv,phone,Missing phone,Completeness,
+112,customers.csv,phone,Missing phone,Completeness,
+120,customers.csv,phone,Missing phone,Completeness,
+141,customers.csv,phone,Missing phone,Completeness,
+158,customers.csv,phone,Missing phone,Completeness,
+162,customers.csv,phone,Missing phone,Completeness,
+179,customers.csv,phone,Missing phone,Completeness,
+180,customers.csv,phone,Missing phone,Completeness,
+205,customers.csv,phone,Missing phone,Completeness,
+19,products.csv,product_name,Missing product name,Completeness,
+27,products.csv,product_name,Missing product name,Completeness,
+42,products.csv,product_name,Missing product name,Completeness,
+53,products.csv,product_name,Missing product name,Completeness,
+68,products.csv,product_name,Missing product name,Completeness,
+81,products.csv,product_name,Missing product name,Completeness,
+86,products.csv,product_name,Missing product name,Completeness,
+88,products.csv,product_name,Missing product name,Completeness,
+91,products.csv,product_name,Missing product name,Completeness,
+92,products.csv,product_name,Missing product name,Completeness,
+93,products.csv,product_name,Missing product name,Completeness,
+94,products.csv,product_name,Missing product name,Completeness,
+104,products.csv,product_name,Missing product name,Completeness,
+5,customers.csv,email,Invalid email format,Validity,karen@invalid
+16,customers.csv,email,Invalid email format,Validity,
+17,customers.csv,email,Invalid email format,Validity,karen@invalid
+19,customers.csv,email,Invalid email format,Validity,kimberly@invalid
+22,customers.csv,email,Invalid email format,Validity,karen@invalid
+26,customers.csv,email,Invalid email format,Validity,
+30,customers.csv,email,Invalid email format,Validity,tanner@invalid
+31,customers.csv,email,Invalid email format,Validity,laura@invalid
+37,customers.csv,email,Invalid email format,Validity,
+39,customers.csv,email,Invalid email format,Validity,
+41,customers.csv,email,Invalid email format,Validity,
+43,customers.csv,email,Invalid email format,Validity,
+47,customers.csv,email,Invalid email format,Validity,
+49,customers.csv,email,Invalid email format,Validity,
+53,customers.csv,email,Invalid email format,Validity,william@invalid
+62,customers.csv,email,Invalid email format,Validity,
+65,customers.csv,email,Invalid email format,Validity,shelly@invalid
+66,customers.csv,email,Invalid email format,Validity,
+68,customers.csv,email,Invalid email format,Validity,
+80,customers.csv,email,Invalid email format,Validity,stephen@invalid
+83,customers.csv,email,Invalid email format,Validity,
+84,customers.csv,email,Invalid email format,Validity,cory@invalid
+85,customers.csv,email,Invalid email format,Validity,
+89,customers.csv,email,Invalid email format,Validity,
+93,customers.csv,email,Invalid email format,Validity,
+98,customers.csv,email,Invalid email format,Validity,heather@invalid
+100,customers.csv,email,Invalid email format,Validity,peter@invalid
+102,customers.csv,email,Invalid email format,Validity,
+108,customers.csv,email,Invalid email format,Validity,
+112,customers.csv,email,Invalid email format,Validity,melissa@invalid
+123,customers.csv,email,Invalid email format,Validity,
+125,customers.csv,email,Invalid email format,Validity,
+129,customers.csv,email,Invalid email format,Validity,brandon@invalid
+132,customers.csv,email,Invalid email format,Validity,ryan@invalid
+136,customers.csv,email,Invalid email format,Validity,
+144,customers.csv,email,Invalid email format,Validity,amanda@invalid
+154,customers.csv,email,Invalid email format,Validity,michelle@invalid
+164,customers.csv,email,Invalid email format,Validity,
+167,customers.csv,email,Invalid email format,Validity,
+170,customers.csv,email,Invalid email format,Validity,
+171,customers.csv,email,Invalid email format,Validity,
+173,customers.csv,email,Invalid email format,Validity,
+177,customers.csv,email,Invalid email format,Validity,justin@invalid
+181,customers.csv,email,Invalid email format,Validity,katherine@invalid
+186,customers.csv,email,Invalid email format,Validity,
+190,customers.csv,email,Invalid email format,Validity,ana@invalid
+191,customers.csv,email,Invalid email format,Validity,
+199,customers.csv,email,Invalid email format,Validity,justin@invalid
+203,customers.csv,email,Invalid email format,Validity,brandon@invalid
+206,customers.csv,email,Invalid email format,Validity,
+209,customers.csv,email,Invalid email format,Validity,
+0,customers.csv,phone,Invalid phone number,Validity,
+1,customers.csv,phone,Invalid phone number,Validity,5895790679.0
+2,customers.csv,phone,Invalid phone number,Validity,
+3,customers.csv,phone,Invalid phone number,Validity,3454426564.0
+4,customers.csv,phone,Invalid phone number,Validity,8358273786.0
+5,customers.csv,phone,Invalid phone number,Validity,
+6,customers.csv,phone,Invalid phone number,Validity,1681646798.0
+7,customers.csv,phone,Invalid phone number,Validity,1303860732.0
+8,customers.csv,phone,Invalid phone number,Validity,8537055793.0
+9,customers.csv,phone,Invalid phone number,Validity,5324994778.0
+10,customers.csv,phone,Invalid phone number,Validity,3949869.0
+11,customers.csv,phone,Invalid phone number,Validity,3307981436.0
+12,customers.csv,phone,Invalid phone number,Validity,1356531284.0
+13,customers.csv,phone,Invalid phone number,Validity,6862057606.0
+14,customers.csv,phone,Invalid phone number,Validity,8817153044.0
+15,customers.csv,phone,Invalid phone number,Validity,9940777044.0
+16,customers.csv,phone,Invalid phone number,Validity,913616877.0
+17,customers.csv,phone,Invalid phone number,Validity,8977375009.0
+18,customers.csv,phone,Invalid phone number,Validity,908180019.0
+19,customers.csv,phone,Invalid phone number,Validity,1654472035.0
+20,customers.csv,phone,Invalid phone number,Validity,5682587157.0
+21,customers.csv,phone,Invalid phone number,Validity,3918732375.0
+22,customers.csv,phone,Invalid phone number,Validity,4588343711.0
+23,customers.csv,phone,Invalid phone number,Validity,6184004342.0
+24,customers.csv,phone,Invalid phone number,Validity,3681329374.0
+25,customers.csv,phone,Invalid phone number,Validity,3735760040.0
+26,customers.csv,phone,Invalid phone number,Validity,2604231807.0
+27,customers.csv,phone,Invalid phone number,Validity,2405787778.0
+28,customers.csv,phone,Invalid phone number,Validity,7154527238.0
+29,customers.csv,phone,Invalid phone number,Validity,7455913063.0
+30,customers.csv,phone,Invalid phone number,Validity,2266896280.0
+31,customers.csv,phone,Invalid phone number,Validity,2446712388.0
+32,customers.csv,phone,Invalid phone number,Validity,2521976976.0
+33,customers.csv,phone,Invalid phone number,Validity,5148922288.0
+34,customers.csv,phone,Invalid phone number,Validity,6946695171.0
+35,customers.csv,phone,Invalid phone number,Validity,8658621060.0
+36,customers.csv,phone,Invalid phone number,Validity,
+37,customers.csv,phone,Invalid phone number,Validity,
+38,customers.csv,phone,Invalid phone number,Validity,9318635330.0
+39,customers.csv,phone,Invalid phone number,Validity,1545204463.0
+40,customers.csv,phone,Invalid phone number,Validity,4635522470.0
+41,customers.csv,phone,Invalid phone number,Validity,5927903769.0
+42,customers.csv,phone,Invalid phone number,Validity,2825291345.0
+43,customers.csv,phone,Invalid phone number,Validity,9524381849.0
+44,customers.csv,phone,Invalid phone number,Validity,7937058581.0
+45,customers.csv,phone,Invalid phone number,Validity,8544014031.0
+46,customers.csv,phone,Invalid phone number,Validity,7267257133.0
+47,customers.csv,phone,Invalid phone number,Validity,2868207632.0
+48,customers.csv,phone,Invalid phone number,Validity,9595201998.0
+49,customers.csv,phone,Invalid phone number,Validity,5388267637.0
+50,customers.csv,phone,Invalid phone number,Validity,1428873001.0
+51,customers.csv,phone,Invalid phone number,Validity,7266798642.0
+52,customers.csv,phone,Invalid phone number,Validity,9954968366.0
+53,customers.csv,phone,Invalid phone number,Validity,3531059459.0
+54,customers.csv,phone,Invalid phone number,Validity,
+55,customers.csv,phone,Invalid phone number,Validity,1622064352.0
+56,customers.csv,phone,Invalid phone number,Validity,6775002086.0
+57,customers.csv,phone,Invalid phone number,Validity,
+58,customers.csv,phone,Invalid phone number,Validity,9814128595.0
+59,customers.csv,phone,Invalid phone number,Validity,9077445586.0
+60,customers.csv,phone,Invalid phone number,Validity,1811704331.0
+61,customers.csv,phone,Invalid phone number,Validity,7507159498.0
+62,customers.csv,phone,Invalid phone number,Validity,
+63,customers.csv,phone,Invalid phone number,Validity,3599920594.0
+64,customers.csv,phone,Invalid phone number,Validity,4682565667.0
+65,customers.csv,phone,Invalid phone number,Validity,7180853488.0
+66,customers.csv,phone,Invalid phone number,Validity,5313865426.0
+67,customers.csv,phone,Invalid phone number,Validity,3336847076.0
+68,customers.csv,phone,Invalid phone number,Validity,9393026977.0
+69,customers.csv,phone,Invalid phone number,Validity,
+70,customers.csv,phone,Invalid phone number,Validity,7630824242.0
+71,customers.csv,phone,Invalid phone number,Validity,1875768798.0
+72,customers.csv,phone,Invalid phone number,Validity,
+73,customers.csv,phone,Invalid phone number,Validity,5184850179.0
+74,customers.csv,phone,Invalid phone number,Validity,9523843366.0
+75,customers.csv,phone,Invalid phone number,Validity,7572969385.0
+76,customers.csv,phone,Invalid phone number,Validity,539630138.0
+77,customers.csv,phone,Invalid phone number,Validity,5683535029.0
+78,customers.csv,phone,Invalid phone number,Validity,3854867646.0
+79,customers.csv,phone,Invalid phone number,Validity,1164738979.0
+80,customers.csv,phone,Invalid phone number,Validity,8450914485.0
+81,customers.csv,phone,Invalid phone number,Validity,3266652285.0
+82,customers.csv,phone,Invalid phone number,Validity,1867311579.0
+83,customers.csv,phone,Invalid phone number,Validity,8518723523.0
+84,customers.csv,phone,Invalid phone number,Validity,4444809181.0
+85,customers.csv,phone,Invalid phone number,Validity,7556575184.0
+86,customers.csv,phone,Invalid phone number,Validity,2476499327.0
+87,customers.csv,phone,Invalid phone number,Validity,6719348111.0
+88,customers.csv,phone,Invalid phone number,Validity,6844763752.0
+89,customers.csv,phone,Invalid phone number,Validity,8392230504.0
+90,customers.csv,phone,Invalid phone number,Validity,6034014790.0
+91,customers.csv,phone,Invalid phone number,Validity,
+92,customers.csv,phone,Invalid phone number,Validity,5458093860.0
+93,customers.csv,phone,Invalid phone number,Validity,761745282.0
+94,customers.csv,phone,Invalid phone number,Validity,9099193211.0
+95,customers.csv,phone,Invalid phone number,Validity,6369971311.0
+96,customers.csv,phone,Invalid phone number,Validity,3239917700.0
+97,customers.csv,phone,Invalid phone number,Validity,8030424500.0
+98,customers.csv,phone,Invalid phone number,Validity,8606672201.0
+99,customers.csv,phone,Invalid phone number,Validity,8452758312.0
+100,customers.csv,phone,Invalid phone number,Validity,6354531628.0
+101,customers.csv,phone,Invalid phone number,Validity,8235488538.0
+102,customers.csv,phone,Invalid phone number,Validity,
+103,customers.csv,phone,Invalid phone number,Validity,1495095110.0
+104,customers.csv,phone,Invalid phone number,Validity,4377029134.0
+105,customers.csv,phone,Invalid phone number,Validity,
+106,customers.csv,phone,Invalid phone number,Validity,3376810999.0
+107,customers.csv,phone,Invalid phone number,Validity,4171395602.0
+108,customers.csv,phone,Invalid phone number,Validity,1059783400.0
+109,customers.csv,phone,Invalid phone number,Validity,
+110,customers.csv,phone,Invalid phone number,Validity,2593247184.0
+111,customers.csv,phone,Invalid phone number,Validity,4776684136.0
+112,customers.csv,phone,Invalid phone number,Validity,
+113,customers.csv,phone,Invalid phone number,Validity,2602300327.0
+114,customers.csv,phone,Invalid phone number,Validity,1398021812.0
+115,customers.csv,phone,Invalid phone number,Validity,9181084668.0
+116,customers.csv,phone,Invalid phone number,Validity,8563363738.0
+117,customers.csv,phone,Invalid phone number,Validity,6860470868.0
+118,customers.csv,phone,Invalid phone number,Validity,5536881583.0
+119,customers.csv,phone,Invalid phone number,Validity,3839317639.0
+120,customers.csv,phone,Invalid phone number,Validity,
+121,customers.csv,phone,Invalid phone number,Validity,8285025223.0
+122,customers.csv,phone,Invalid phone number,Validity,8078047742.0
+123,customers.csv,phone,Invalid phone number,Validity,23091286.0
+124,customers.csv,phone,Invalid phone number,Validity,928260990.0
+125,customers.csv,phone,Invalid phone number,Validity,4556502928.0
+126,customers.csv,phone,Invalid phone number,Validity,6156863473.0
+127,customers.csv,phone,Invalid phone number,Validity,6478817991.0
+128,customers.csv,phone,Invalid phone number,Validity,6257818001.0
+129,customers.csv,phone,Invalid phone number,Validity,6771905296.0
+130,customers.csv,phone,Invalid phone number,Validity,5719117247.0
+131,customers.csv,phone,Invalid phone number,Validity,1533107405.0
+132,customers.csv,phone,Invalid phone number,Validity,7933138155.0
+133,customers.csv,phone,Invalid phone number,Validity,5443956659.0
+134,customers.csv,phone,Invalid phone number,Validity,7328344068.0
+135,customers.csv,phone,Invalid phone number,Validity,1092795506.0
+136,customers.csv,phone,Invalid phone number,Validity,9567172180.0
+137,customers.csv,phone,Invalid phone number,Validity,7065819383.0
+138,customers.csv,phone,Invalid phone number,Validity,2408904825.0
+139,customers.csv,phone,Invalid phone number,Validity,3494348407.0
+140,customers.csv,phone,Invalid phone number,Validity,7467469067.0
+141,customers.csv,phone,Invalid phone number,Validity,
+142,customers.csv,phone,Invalid phone number,Validity,8618075189.0
+143,customers.csv,phone,Invalid phone number,Validity,2126056654.0
+144,customers.csv,phone,Invalid phone number,Validity,1518443669.0
+145,customers.csv,phone,Invalid phone number,Validity,6153416916.0
+146,customers.csv,phone,Invalid phone number,Validity,7061400136.0
+147,customers.csv,phone,Invalid phone number,Validity,4047395252.0
+148,customers.csv,phone,Invalid phone number,Validity,5721392412.0
+149,customers.csv,phone,Invalid phone number,Validity,6041317241.0
+150,customers.csv,phone,Invalid phone number,Validity,7643395737.0
+151,customers.csv,phone,Invalid phone number,Validity,3002783719.0
+152,customers.csv,phone,Invalid phone number,Validity,4751064050.0
+153,customers.csv,phone,Invalid phone number,Validity,2782815094.0
+154,customers.csv,phone,Invalid phone number,Validity,6561484915.0
+155,customers.csv,phone,Invalid phone number,Validity,546404898.0
+156,customers.csv,phone,Invalid phone number,Validity,7507875603.0
+157,customers.csv,phone,Invalid phone number,Validity,3272448030.0
+158,customers.csv,phone,Invalid phone number,Validity,
+159,customers.csv,phone,Invalid phone number,Validity,7215746261.0
+160,customers.csv,phone,Invalid phone number,Validity,3912455390.0
+161,customers.csv,phone,Invalid phone number,Validity,2651768975.0
+162,customers.csv,phone,Invalid phone number,Validity,
+163,customers.csv,phone,Invalid phone number,Validity,9674344550.0
+164,customers.csv,phone,Invalid phone number,Validity,9409020396.0
+165,customers.csv,phone,Invalid phone number,Validity,2492221864.0
+166,customers.csv,phone,Invalid phone number,Validity,7565145659.0
+167,customers.csv,phone,Invalid phone number,Validity,1933492581.0
+168,customers.csv,phone,Invalid phone number,Validity,5879176924.0
+169,customers.csv,phone,Invalid phone number,Validity,4427264902.0
+170,customers.csv,phone,Invalid phone number,Validity,5836440087.0
+171,customers.csv,phone,Invalid phone number,Validity,9231309036.0
+172,customers.csv,phone,Invalid phone number,Validity,5181349734.0
+173,customers.csv,phone,Invalid phone number,Validity,9184462888.0
+174,customers.csv,phone,Invalid phone number,Validity,1021547537.0
+175,customers.csv,phone,Invalid phone number,Validity,2583895890.0
+176,customers.csv,phone,Invalid phone number,Validity,963071565.0
+177,customers.csv,phone,Invalid phone number,Validity,5473404015.0
+178,customers.csv,phone,Invalid phone number,Validity,8892133398.0
+179,customers.csv,phone,Invalid phone number,Validity,
+180,customers.csv,phone,Invalid phone number,Validity,
+181,customers.csv,phone,Invalid phone number,Validity,4709746923.0
+182,customers.csv,phone,Invalid phone number,Validity,1190890071.0
+183,customers.csv,phone,Invalid phone number,Validity,3577705588.0
+184,customers.csv,phone,Invalid phone number,Validity,7939015890.0
+185,customers.csv,phone,Invalid phone number,Validity,3558043989.0
+186,customers.csv,phone,Invalid phone number,Validity,6874759093.0
+187,customers.csv,phone,Invalid phone number,Validity,132093548.0
+188,customers.csv,phone,Invalid phone number,Validity,137229332.0
+189,customers.csv,phone,Invalid phone number,Validity,8409193699.0
+190,customers.csv,phone,Invalid phone number,Validity,364901833.0
+191,customers.csv,phone,Invalid phone number,Validity,7275393816.0
+192,customers.csv,phone,Invalid phone number,Validity,7894222974.0
+193,customers.csv,phone,Invalid phone number,Validity,6477456156.0
+194,customers.csv,phone,Invalid phone number,Validity,4355192931.0
+195,customers.csv,phone,Invalid phone number,Validity,6271516308.0
+196,customers.csv,phone,Invalid phone number,Validity,5032174730.0
+197,customers.csv,phone,Invalid phone number,Validity,448163085.0
+198,customers.csv,phone,Invalid phone number,Validity,2760178060.0
+199,customers.csv,phone,Invalid phone number,Validity,4706939970.0
+200,customers.csv,phone,Invalid phone number,Validity,5443956659.0
+201,customers.csv,phone,Invalid phone number,Validity,7467469067.0
+202,customers.csv,phone,Invalid phone number,Validity,8235488538.0
+203,customers.csv,phone,Invalid phone number,Validity,6771905296.0
+204,customers.csv,phone,Invalid phone number,Validity,6369971311.0
+205,customers.csv,phone,Invalid phone number,Validity,
+206,customers.csv,phone,Invalid phone number,Validity,9524381849.0
+207,customers.csv,phone,Invalid phone number,Validity,539630138.0
+208,customers.csv,phone,Invalid phone number,Validity,6184004342.0
+209,customers.csv,phone,Invalid phone number,Validity,1933492581.0
+8,products.csv,price,Invalid or negative price,Validity,-50
+19,products.csv,price,Invalid or negative price,Validity,abc
+23,products.csv,price,Invalid or negative price,Validity,abc
+24,products.csv,price,Invalid or negative price,Validity,-50
+26,products.csv,price,Invalid or negative price,Validity,
+30,products.csv,price,Invalid or negative price,Validity,
+33,products.csv,price,Invalid or negative price,Validity,-50
+40,products.csv,price,Invalid or negative price,Validity,abc
+45,products.csv,price,Invalid or negative price,Validity,
+51,products.csv,price,Invalid or negative price,Validity,abc
+53,products.csv,price,Invalid or negative price,Validity,abc
+72,products.csv,price,Invalid or negative price,Validity,abc
+87,products.csv,price,Invalid or negative price,Validity,abc
+90,products.csv,price,Invalid or negative price,Validity,
+91,products.csv,price,Invalid or negative price,Validity,
+93,products.csv,price,Invalid or negative price,Validity,abc
+97,products.csv,price,Invalid or negative price,Validity,-50
+2,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+11,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+17,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+18,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+20,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+24,orders.csv,total_amount,Invalid or negative total_amount,Validity,-250
+49,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+58,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+60,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+78,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+85,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+92,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+144,orders.csv,total_amount,Invalid or negative total_amount,Validity,-200
+146,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+158,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+199,orders.csv,total_amount,Invalid or negative total_amount,Validity,-50
+212,orders.csv,total_amount,Invalid or negative total_amount,Validity,-250
+228,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+238,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+247,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+262,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+277,orders.csv,total_amount,Invalid or negative total_amount,Validity,-200
+296,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+320,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+321,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+333,orders.csv,total_amount,Invalid or negative total_amount,Validity,-200
+335,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+350,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+357,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+365,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+366,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+372,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+374,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+375,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+383,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+389,orders.csv,total_amount,Invalid or negative total_amount,Validity,-50
+416,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+431,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+453,orders.csv,total_amount,Invalid or negative total_amount,Validity,-200
+459,orders.csv,total_amount,Invalid or negative total_amount,Validity,-50
+464,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+481,orders.csv,total_amount,Invalid or negative total_amount,Validity,-200
+485,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+490,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+493,orders.csv,total_amount,Invalid or negative total_amount,Validity,-150
+498,orders.csv,total_amount,Invalid or negative total_amount,Validity,-250
+499,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+504,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+513,orders.csv,total_amount,Invalid or negative total_amount,Validity,-250
+523,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+545,orders.csv,total_amount,Invalid or negative total_amount,Validity,-50
+555,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+566,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+567,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+576,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+579,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+580,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+587,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+594,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+600,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+621,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+638,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+640,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+678,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+696,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+699,orders.csv,total_amount,Invalid or negative total_amount,Validity,-50
+708,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+711,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+718,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+728,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+772,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+777,orders.csv,total_amount,Invalid or negative total_amount,Validity,-50
+778,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+796,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+815,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+816,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+829,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+830,orders.csv,total_amount,Invalid or negative total_amount,Validity,-200
+850,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+858,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+871,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+873,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+882,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+917,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+919,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+922,orders.csv,total_amount,Invalid or negative total_amount,Validity,-150
+945,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+954,orders.csv,total_amount,Invalid or negative total_amount,Validity,-100
+958,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+974,orders.csv,total_amount,Invalid or negative total_amount,Validity,-200
+997,orders.csv,total_amount,Invalid or negative total_amount,Validity,-150
+999,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+1,products.csv,sku,Duplicate SKU,Uniqueness,P102
+21,products.csv,sku,Duplicate SKU,Uniqueness,P122
+67,products.csv,sku,Duplicate SKU,Uniqueness,P168
+81,products.csv,sku,Duplicate SKU,Uniqueness,P182
+95,products.csv,sku,Duplicate SKU,Uniqueness,P196
+100,products.csv,sku,Duplicate SKU,Uniqueness,P196
+101,products.csv,sku,Duplicate SKU,Uniqueness,P168
+102,products.csv,sku,Duplicate SKU,Uniqueness,P102
+103,products.csv,sku,Duplicate SKU,Uniqueness,P122
+104,products.csv,sku,Duplicate SKU,Uniqueness,P182
+5,customers.csv,email,Duplicate email,Uniqueness,karen@invalid
+12,customers.csv,email,Duplicate email,Uniqueness,tiffany@gmail.com
+16,customers.csv,email,Duplicate email,Uniqueness,
+17,customers.csv,email,Duplicate email,Uniqueness,karen@invalid
+22,customers.csv,email,Duplicate email,Uniqueness,karen@invalid
+23,customers.csv,email,Duplicate email,Uniqueness,jose@yahoo.com
+26,customers.csv,email,Duplicate email,Uniqueness,
+34,customers.csv,email,Duplicate email,Uniqueness,james@gmail.com
+37,customers.csv,email,Duplicate email,Uniqueness,
+39,customers.csv,email,Duplicate email,Uniqueness,
+40,customers.csv,email,Duplicate email,Uniqueness,courtney@hotmail.com
+41,customers.csv,email,Duplicate email,Uniqueness,
+43,customers.csv,email,Duplicate email,Uniqueness,
+47,customers.csv,email,Duplicate email,Uniqueness,
+49,customers.csv,email,Duplicate email,Uniqueness,
+55,customers.csv,email,Duplicate email,Uniqueness,david@hotmail.com
+60,customers.csv,email,Duplicate email,Uniqueness,courtney@hotmail.com
+61,customers.csv,email,Duplicate email,Uniqueness,william@yahoo.com
+62,customers.csv,email,Duplicate email,Uniqueness,
+66,customers.csv,email,Duplicate email,Uniqueness,
+67,customers.csv,email,Duplicate email,Uniqueness,nathan@gmail.com
+68,customers.csv,email,Duplicate email,Uniqueness,
+70,customers.csv,email,Duplicate email,Uniqueness,andrew@yahoo.com
+73,customers.csv,email,Duplicate email,Uniqueness,david@hotmail.com
+76,customers.csv,email,Duplicate email,Uniqueness,olivia@gmail.com
+79,customers.csv,email,Duplicate email,Uniqueness,michael@gmail.com
+83,customers.csv,email,Duplicate email,Uniqueness,
+85,customers.csv,email,Duplicate email,Uniqueness,
+88,customers.csv,email,Duplicate email,Uniqueness,jennifer@gmail.com
+89,customers.csv,email,Duplicate email,Uniqueness,
+92,customers.csv,email,Duplicate email,Uniqueness,lisa@yahoo.com
+93,customers.csv,email,Duplicate email,Uniqueness,
+95,customers.csv,email,Duplicate email,Uniqueness,melissa@yahoo.com
+97,customers.csv,email,Duplicate email,Uniqueness,william@yahoo.com
+99,customers.csv,email,Duplicate email,Uniqueness,tiffany@gmail.com
+101,customers.csv,email,Duplicate email,Uniqueness,jacqueline@hotmail.com
+102,customers.csv,email,Duplicate email,Uniqueness,
+106,customers.csv,email,Duplicate email,Uniqueness,michael@gmail.com
+108,customers.csv,email,Duplicate email,Uniqueness,
+111,customers.csv,email,Duplicate email,Uniqueness,nathan@gmail.com
+115,customers.csv,email,Duplicate email,Uniqueness,daniel@gmail.com
+120,customers.csv,email,Duplicate email,Uniqueness,james@gmail.com
+121,customers.csv,email,Duplicate email,Uniqueness,daniel@gmail.com
+122,customers.csv,email,Duplicate email,Uniqueness,michael@gmail.com
+123,customers.csv,email,Duplicate email,Uniqueness,
+125,customers.csv,email,Duplicate email,Uniqueness,
+126,customers.csv,email,Duplicate email,Uniqueness,andrew@yahoo.com
+129,customers.csv,email,Duplicate email,Uniqueness,brandon@invalid
+131,customers.csv,email,Duplicate email,Uniqueness,joseph@yahoo.com
+133,customers.csv,email,Duplicate email,Uniqueness,thomas@gmail.com
+136,customers.csv,email,Duplicate email,Uniqueness,
+140,customers.csv,email,Duplicate email,Uniqueness,travis@yahoo.com
+142,customers.csv,email,Duplicate email,Uniqueness,joseph@yahoo.com
+153,customers.csv,email,Duplicate email,Uniqueness,william@yahoo.com
+164,customers.csv,email,Duplicate email,Uniqueness,
+167,customers.csv,email,Duplicate email,Uniqueness,
+168,customers.csv,email,Duplicate email,Uniqueness,lisa@yahoo.com
+170,customers.csv,email,Duplicate email,Uniqueness,
+171,customers.csv,email,Duplicate email,Uniqueness,
+173,customers.csv,email,Duplicate email,Uniqueness,
+177,customers.csv,email,Duplicate email,Uniqueness,justin@invalid
+178,customers.csv,email,Duplicate email,Uniqueness,justin@hotmail.com
+179,customers.csv,email,Duplicate email,Uniqueness,daniel@gmail.com
+184,customers.csv,email,Duplicate email,Uniqueness,justin@hotmail.com
+185,customers.csv,email,Duplicate email,Uniqueness,james@gmail.com
+186,customers.csv,email,Duplicate email,Uniqueness,
+187,customers.csv,email,Duplicate email,Uniqueness,jennifer@gmail.com
+188,customers.csv,email,Duplicate email,Uniqueness,david@hotmail.com
+191,customers.csv,email,Duplicate email,Uniqueness,
+199,customers.csv,email,Duplicate email,Uniqueness,justin@invalid
+200,customers.csv,email,Duplicate email,Uniqueness,thomas@gmail.com
+201,customers.csv,email,Duplicate email,Uniqueness,travis@yahoo.com
+202,customers.csv,email,Duplicate email,Uniqueness,jacqueline@hotmail.com
+203,customers.csv,email,Duplicate email,Uniqueness,brandon@invalid
+204,customers.csv,email,Duplicate email,Uniqueness,melissa@yahoo.com
+205,customers.csv,email,Duplicate email,Uniqueness,james@gmail.com
+206,customers.csv,email,Duplicate email,Uniqueness,
+207,customers.csv,email,Duplicate email,Uniqueness,olivia@gmail.com
+208,customers.csv,email,Duplicate email,Uniqueness,jose@yahoo.com
+209,customers.csv,email,Duplicate email,Uniqueness,
+15,orders.csv,order_date,Future order date,Timeliness,2026-02-03
+18,orders.csv,order_date,Future order date,Timeliness,2025-11-01
+25,orders.csv,order_date,Future order date,Timeliness,2025-11-07
+146,orders.csv,order_date,Future order date,Timeliness,2026-01-10
+163,orders.csv,order_date,Future order date,Timeliness,2025-11-23
+175,orders.csv,order_date,Future order date,Timeliness,2025-11-22
+248,orders.csv,order_date,Future order date,Timeliness,2025-12-10
+340,orders.csv,order_date,Future order date,Timeliness,2026-02-14
+348,orders.csv,order_date,Future order date,Timeliness,2026-08-30
+381,orders.csv,order_date,Future order date,Timeliness,2025-12-22
+439,orders.csv,order_date,Future order date,Timeliness,2026-06-05
+443,orders.csv,order_date,Future order date,Timeliness,2026-05-30
+466,orders.csv,order_date,Future order date,Timeliness,2025-11-06
+472,orders.csv,order_date,Future order date,Timeliness,2025-12-04
+495,orders.csv,order_date,Future order date,Timeliness,2026-07-02
+530,orders.csv,order_date,Future order date,Timeliness,2025-10-29
+580,orders.csv,order_date,Future order date,Timeliness,2026-02-26
+664,orders.csv,order_date,Future order date,Timeliness,2026-01-29
+716,orders.csv,order_date,Future order date,Timeliness,2026-02-16
+730,orders.csv,order_date,Future order date,Timeliness,2025-11-17
+835,orders.csv,order_date,Future order date,Timeliness,2026-03-09
+857,orders.csv,order_date,Future order date,Timeliness,2026-04-06
+893,orders.csv,order_date,Future order date,Timeliness,2026-01-16
+954,orders.csv,order_date,Future order date,Timeliness,2026-02-02
+998,orders.csv,order_date,Future order date,Timeliness,2026-09-21
+2,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+44,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+55,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+61,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+71,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+72,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+74,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+89,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+110,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+123,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+151,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+155,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+164,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+176,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+179,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+192,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+204,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+213,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+221,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+246,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+248,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+251,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+253,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+268,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+270,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+271,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+283,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+285,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+292,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+302,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+314,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+317,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+324,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+325,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+327,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+352,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+368,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+384,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+388,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+394,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+402,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+405,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+411,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+415,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+417,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+425,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+434,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+447,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+451,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+452,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+460,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+462,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+484,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+485,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+508,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+510,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+512,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+541,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+543,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+549,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+551,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+560,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+564,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+570,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+578,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+582,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+585,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+595,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+615,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+630,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+633,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+641,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+642,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+654,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+655,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+660,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+662,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+664,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+677,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+679,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+693,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+701,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+724,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+732,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+741,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+744,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+782,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+784,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+805,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+825,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+831,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+833,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+838,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+841,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+857,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+878,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+880,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+886,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+893,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+916,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+924,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+940,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+943,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+945,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+952,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+961,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+975,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+979,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+987,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+993,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+2,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 2676.0
+11,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 5295.0
+20,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 900.0
+49,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 2070.0
+104,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,100 vs 682.0
+127,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,300 vs 3606.0
+169,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,100 vs 994.0
+228,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 3632.0
+262,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 354.0
+330,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,400 vs 4460.0
+354,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,500 vs 3230.0
+372,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 3848.0
+375,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 2514.0
+416,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 6485.0
+431,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 900.0
+464,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 989.0
+466,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,400 vs 7104.0
+499,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs -200.0
+515,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,300 vs 2967.0
+536,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,400 vs 2236.0
+555,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 4240.0
+566,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 1776.0
+574,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,300 vs 3909.0
+579,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 2218.0
+585,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,400 vs 4896.0
+594,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 2058.0
+598,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,500 vs 7045.0
+600,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 6755.0
+618,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,500 vs -250.0
+640,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 4676.0
+648,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,500 vs 5175.0
+667,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,100 vs 588.0
+680,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,300 vs 1632.0
+696,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 2594.0
+708,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 1420.0
+711,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 95.0
+726,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,500 vs -250.0
+728,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 6620.0
+772,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 444.0
+800,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,200 vs 3848.0
+815,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 1516.0
+829,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 1115.0
+845,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,300 vs 1764.0
+868,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,100 vs 503.0
+871,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 1632.0
+873,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 42.0
+886,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,300 vs 1413.0
+917,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 2676.0
+919,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 9155.0
+945,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 95.0
+954,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 989.0
+981,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,500 vs 3265.0
+0,customers.csv,phone,Wrong data type (should be str),Data Type,
+1,customers.csv,phone,Wrong data type (should be str),Data Type,5895790679.0
+2,customers.csv,phone,Wrong data type (should be str),Data Type,
+3,customers.csv,phone,Wrong data type (should be str),Data Type,3454426564.0
+4,customers.csv,phone,Wrong data type (should be str),Data Type,8358273786.0
+5,customers.csv,phone,Wrong data type (should be str),Data Type,
+6,customers.csv,phone,Wrong data type (should be str),Data Type,1681646798.0
+7,customers.csv,phone,Wrong data type (should be str),Data Type,1303860732.0
+8,customers.csv,phone,Wrong data type (should be str),Data Type,8537055793.0
+9,customers.csv,phone,Wrong data type (should be str),Data Type,5324994778.0
+10,customers.csv,phone,Wrong data type (should be str),Data Type,3949869.0
+11,customers.csv,phone,Wrong data type (should be str),Data Type,3307981436.0
+12,customers.csv,phone,Wrong data type (should be str),Data Type,1356531284.0
+13,customers.csv,phone,Wrong data type (should be str),Data Type,6862057606.0
+14,customers.csv,phone,Wrong data type (should be str),Data Type,8817153044.0
+15,customers.csv,phone,Wrong data type (should be str),Data Type,9940777044.0
+16,customers.csv,email,Wrong data type (should be str),Data Type,
+16,customers.csv,phone,Wrong data type (should be str),Data Type,913616877.0
+17,customers.csv,phone,Wrong data type (should be str),Data Type,8977375009.0
+18,customers.csv,phone,Wrong data type (should be str),Data Type,908180019.0
+19,customers.csv,phone,Wrong data type (should be str),Data Type,1654472035.0
+20,customers.csv,phone,Wrong data type (should be str),Data Type,5682587157.0
+21,customers.csv,phone,Wrong data type (should be str),Data Type,3918732375.0
+22,customers.csv,phone,Wrong data type (should be str),Data Type,4588343711.0
+23,customers.csv,phone,Wrong data type (should be str),Data Type,6184004342.0
+24,customers.csv,phone,Wrong data type (should be str),Data Type,3681329374.0
+25,customers.csv,phone,Wrong data type (should be str),Data Type,3735760040.0
+26,customers.csv,email,Wrong data type (should be str),Data Type,
+26,customers.csv,phone,Wrong data type (should be str),Data Type,2604231807.0
+27,customers.csv,phone,Wrong data type (should be str),Data Type,2405787778.0
+28,customers.csv,phone,Wrong data type (should be str),Data Type,7154527238.0
+29,customers.csv,phone,Wrong data type (should be str),Data Type,7455913063.0
+30,customers.csv,phone,Wrong data type (should be str),Data Type,2266896280.0
+31,customers.csv,phone,Wrong data type (should be str),Data Type,2446712388.0
+32,customers.csv,phone,Wrong data type (should be str),Data Type,2521976976.0
+33,customers.csv,phone,Wrong data type (should be str),Data Type,5148922288.0
+34,customers.csv,phone,Wrong data type (should be str),Data Type,6946695171.0
+35,customers.csv,phone,Wrong data type (should be str),Data Type,8658621060.0
+36,customers.csv,phone,Wrong data type (should be str),Data Type,
+37,customers.csv,email,Wrong data type (should be str),Data Type,
+37,customers.csv,phone,Wrong data type (should be str),Data Type,
+38,customers.csv,phone,Wrong data type (should be str),Data Type,9318635330.0
+39,customers.csv,email,Wrong data type (should be str),Data Type,
+39,customers.csv,phone,Wrong data type (should be str),Data Type,1545204463.0
+40,customers.csv,phone,Wrong data type (should be str),Data Type,4635522470.0
+41,customers.csv,email,Wrong data type (should be str),Data Type,
+41,customers.csv,phone,Wrong data type (should be str),Data Type,5927903769.0
+42,customers.csv,phone,Wrong data type (should be str),Data Type,2825291345.0
+43,customers.csv,email,Wrong data type (should be str),Data Type,
+43,customers.csv,phone,Wrong data type (should be str),Data Type,9524381849.0
+44,customers.csv,phone,Wrong data type (should be str),Data Type,7937058581.0
+45,customers.csv,phone,Wrong data type (should be str),Data Type,8544014031.0
+46,customers.csv,phone,Wrong data type (should be str),Data Type,7267257133.0
+47,customers.csv,email,Wrong data type (should be str),Data Type,
+47,customers.csv,phone,Wrong data type (should be str),Data Type,2868207632.0
+48,customers.csv,phone,Wrong data type (should be str),Data Type,9595201998.0
+49,customers.csv,email,Wrong data type (should be str),Data Type,
+49,customers.csv,phone,Wrong data type (should be str),Data Type,5388267637.0
+50,customers.csv,phone,Wrong data type (should be str),Data Type,1428873001.0
+51,customers.csv,phone,Wrong data type (should be str),Data Type,7266798642.0
+52,customers.csv,phone,Wrong data type (should be str),Data Type,9954968366.0
+53,customers.csv,phone,Wrong data type (should be str),Data Type,3531059459.0
+54,customers.csv,phone,Wrong data type (should be str),Data Type,
+55,customers.csv,phone,Wrong data type (should be str),Data Type,1622064352.0
+56,customers.csv,phone,Wrong data type (should be str),Data Type,6775002086.0
+57,customers.csv,phone,Wrong data type (should be str),Data Type,
+58,customers.csv,phone,Wrong data type (should be str),Data Type,9814128595.0
+59,customers.csv,phone,Wrong data type (should be str),Data Type,9077445586.0
+60,customers.csv,phone,Wrong data type (should be str),Data Type,1811704331.0
+61,customers.csv,phone,Wrong data type (should be str),Data Type,7507159498.0
+62,customers.csv,email,Wrong data type (should be str),Data Type,
+62,customers.csv,phone,Wrong data type (should be str),Data Type,
+63,customers.csv,phone,Wrong data type (should be str),Data Type,3599920594.0
+64,customers.csv,phone,Wrong data type (should be str),Data Type,4682565667.0
+65,customers.csv,phone,Wrong data type (should be str),Data Type,7180853488.0
+66,customers.csv,email,Wrong data type (should be str),Data Type,
+66,customers.csv,phone,Wrong data type (should be str),Data Type,5313865426.0
+67,customers.csv,phone,Wrong data type (should be str),Data Type,3336847076.0
+68,customers.csv,email,Wrong data type (should be str),Data Type,
+68,customers.csv,phone,Wrong data type (should be str),Data Type,9393026977.0
+69,customers.csv,phone,Wrong data type (should be str),Data Type,
+70,customers.csv,phone,Wrong data type (should be str),Data Type,7630824242.0
+71,customers.csv,phone,Wrong data type (should be str),Data Type,1875768798.0
+72,customers.csv,phone,Wrong data type (should be str),Data Type,
+73,customers.csv,phone,Wrong data type (should be str),Data Type,5184850179.0
+74,customers.csv,phone,Wrong data type (should be str),Data Type,9523843366.0
+75,customers.csv,phone,Wrong data type (should be str),Data Type,7572969385.0
+76,customers.csv,phone,Wrong data type (should be str),Data Type,539630138.0
+77,customers.csv,phone,Wrong data type (should be str),Data Type,5683535029.0
+78,customers.csv,phone,Wrong data type (should be str),Data Type,3854867646.0
+79,customers.csv,phone,Wrong data type (should be str),Data Type,1164738979.0
+80,customers.csv,phone,Wrong data type (should be str),Data Type,8450914485.0
+81,customers.csv,phone,Wrong data type (should be str),Data Type,3266652285.0
+82,customers.csv,phone,Wrong data type (should be str),Data Type,1867311579.0
+83,customers.csv,email,Wrong data type (should be str),Data Type,
+83,customers.csv,phone,Wrong data type (should be str),Data Type,8518723523.0
+84,customers.csv,phone,Wrong data type (should be str),Data Type,4444809181.0
+85,customers.csv,email,Wrong data type (should be str),Data Type,
+85,customers.csv,phone,Wrong data type (should be str),Data Type,7556575184.0
+86,customers.csv,phone,Wrong data type (should be str),Data Type,2476499327.0
+87,customers.csv,phone,Wrong data type (should be str),Data Type,6719348111.0
+88,customers.csv,phone,Wrong data type (should be str),Data Type,6844763752.0
+89,customers.csv,email,Wrong data type (should be str),Data Type,
+89,customers.csv,phone,Wrong data type (should be str),Data Type,8392230504.0
+90,customers.csv,phone,Wrong data type (should be str),Data Type,6034014790.0
+91,customers.csv,phone,Wrong data type (should be str),Data Type,
+92,customers.csv,phone,Wrong data type (should be str),Data Type,5458093860.0
+93,customers.csv,email,Wrong data type (should be str),Data Type,
+93,customers.csv,phone,Wrong data type (should be str),Data Type,761745282.0
+94,customers.csv,phone,Wrong data type (should be str),Data Type,9099193211.0
+95,customers.csv,phone,Wrong data type (should be str),Data Type,6369971311.0
+96,customers.csv,phone,Wrong data type (should be str),Data Type,3239917700.0
+97,customers.csv,phone,Wrong data type (should be str),Data Type,8030424500.0
+98,customers.csv,phone,Wrong data type (should be str),Data Type,8606672201.0
+99,customers.csv,phone,Wrong data type (should be str),Data Type,8452758312.0
+100,customers.csv,phone,Wrong data type (should be str),Data Type,6354531628.0
+101,customers.csv,phone,Wrong data type (should be str),Data Type,8235488538.0
+102,customers.csv,email,Wrong data type (should be str),Data Type,
+102,customers.csv,phone,Wrong data type (should be str),Data Type,
+103,customers.csv,phone,Wrong data type (should be str),Data Type,1495095110.0
+104,customers.csv,phone,Wrong data type (should be str),Data Type,4377029134.0
+105,customers.csv,phone,Wrong data type (should be str),Data Type,
+106,customers.csv,phone,Wrong data type (should be str),Data Type,3376810999.0
+107,customers.csv,phone,Wrong data type (should be str),Data Type,4171395602.0
+108,customers.csv,email,Wrong data type (should be str),Data Type,
+108,customers.csv,phone,Wrong data type (should be str),Data Type,1059783400.0
+109,customers.csv,phone,Wrong data type (should be str),Data Type,
+110,customers.csv,phone,Wrong data type (should be str),Data Type,2593247184.0
+111,customers.csv,phone,Wrong data type (should be str),Data Type,4776684136.0
+112,customers.csv,phone,Wrong data type (should be str),Data Type,
+113,customers.csv,phone,Wrong data type (should be str),Data Type,2602300327.0
+114,customers.csv,phone,Wrong data type (should be str),Data Type,1398021812.0
+115,customers.csv,phone,Wrong data type (should be str),Data Type,9181084668.0
+116,customers.csv,phone,Wrong data type (should be str),Data Type,8563363738.0
+117,customers.csv,phone,Wrong data type (should be str),Data Type,6860470868.0
+118,customers.csv,phone,Wrong data type (should be str),Data Type,5536881583.0
+119,customers.csv,phone,Wrong data type (should be str),Data Type,3839317639.0
+120,customers.csv,phone,Wrong data type (should be str),Data Type,
+121,customers.csv,phone,Wrong data type (should be str),Data Type,8285025223.0
+122,customers.csv,phone,Wrong data type (should be str),Data Type,8078047742.0
+123,customers.csv,email,Wrong data type (should be str),Data Type,
+123,customers.csv,phone,Wrong data type (should be str),Data Type,23091286.0
+124,customers.csv,phone,Wrong data type (should be str),Data Type,928260990.0
+125,customers.csv,email,Wrong data type (should be str),Data Type,
+125,customers.csv,phone,Wrong data type (should be str),Data Type,4556502928.0
+126,customers.csv,phone,Wrong data type (should be str),Data Type,6156863473.0
+127,customers.csv,phone,Wrong data type (should be str),Data Type,6478817991.0
+128,customers.csv,phone,Wrong data type (should be str),Data Type,6257818001.0
+129,customers.csv,phone,Wrong data type (should be str),Data Type,6771905296.0
+130,customers.csv,phone,Wrong data type (should be str),Data Type,5719117247.0
+131,customers.csv,phone,Wrong data type (should be str),Data Type,1533107405.0
+132,customers.csv,phone,Wrong data type (should be str),Data Type,7933138155.0
+133,customers.csv,phone,Wrong data type (should be str),Data Type,5443956659.0
+134,customers.csv,phone,Wrong data type (should be str),Data Type,7328344068.0
+135,customers.csv,phone,Wrong data type (should be str),Data Type,1092795506.0
+136,customers.csv,email,Wrong data type (should be str),Data Type,
+136,customers.csv,phone,Wrong data type (should be str),Data Type,9567172180.0
+137,customers.csv,phone,Wrong data type (should be str),Data Type,7065819383.0
+138,customers.csv,phone,Wrong data type (should be str),Data Type,2408904825.0
+139,customers.csv,phone,Wrong data type (should be str),Data Type,3494348407.0
+140,customers.csv,phone,Wrong data type (should be str),Data Type,7467469067.0
+141,customers.csv,phone,Wrong data type (should be str),Data Type,
+142,customers.csv,phone,Wrong data type (should be str),Data Type,8618075189.0
+143,customers.csv,phone,Wrong data type (should be str),Data Type,2126056654.0
+144,customers.csv,phone,Wrong data type (should be str),Data Type,1518443669.0
+145,customers.csv,phone,Wrong data type (should be str),Data Type,6153416916.0
+146,customers.csv,phone,Wrong data type (should be str),Data Type,7061400136.0
+147,customers.csv,phone,Wrong data type (should be str),Data Type,4047395252.0
+148,customers.csv,phone,Wrong data type (should be str),Data Type,5721392412.0
+149,customers.csv,phone,Wrong data type (should be str),Data Type,6041317241.0
+150,customers.csv,phone,Wrong data type (should be str),Data Type,7643395737.0
+151,customers.csv,phone,Wrong data type (should be str),Data Type,3002783719.0
+152,customers.csv,phone,Wrong data type (should be str),Data Type,4751064050.0
+153,customers.csv,phone,Wrong data type (should be str),Data Type,2782815094.0
+154,customers.csv,phone,Wrong data type (should be str),Data Type,6561484915.0
+155,customers.csv,phone,Wrong data type (should be str),Data Type,546404898.0
+156,customers.csv,phone,Wrong data type (should be str),Data Type,7507875603.0
+157,customers.csv,phone,Wrong data type (should be str),Data Type,3272448030.0
+158,customers.csv,phone,Wrong data type (should be str),Data Type,
+159,customers.csv,phone,Wrong data type (should be str),Data Type,7215746261.0
+160,customers.csv,phone,Wrong data type (should be str),Data Type,3912455390.0
+161,customers.csv,phone,Wrong data type (should be str),Data Type,2651768975.0
+162,customers.csv,phone,Wrong data type (should be str),Data Type,
+163,customers.csv,phone,Wrong data type (should be str),Data Type,9674344550.0
+164,customers.csv,email,Wrong data type (should be str),Data Type,
+164,customers.csv,phone,Wrong data type (should be str),Data Type,9409020396.0
+165,customers.csv,phone,Wrong data type (should be str),Data Type,2492221864.0
+166,customers.csv,phone,Wrong data type (should be str),Data Type,7565145659.0
+167,customers.csv,email,Wrong data type (should be str),Data Type,
+167,customers.csv,phone,Wrong data type (should be str),Data Type,1933492581.0
+168,customers.csv,phone,Wrong data type (should be str),Data Type,5879176924.0
+169,customers.csv,phone,Wrong data type (should be str),Data Type,4427264902.0
+170,customers.csv,email,Wrong data type (should be str),Data Type,
+170,customers.csv,phone,Wrong data type (should be str),Data Type,5836440087.0
+171,customers.csv,email,Wrong data type (should be str),Data Type,
+171,customers.csv,phone,Wrong data type (should be str),Data Type,9231309036.0
+172,customers.csv,phone,Wrong data type (should be str),Data Type,5181349734.0
+173,customers.csv,email,Wrong data type (should be str),Data Type,
+173,customers.csv,phone,Wrong data type (should be str),Data Type,9184462888.0
+174,customers.csv,phone,Wrong data type (should be str),Data Type,1021547537.0
+175,customers.csv,phone,Wrong data type (should be str),Data Type,2583895890.0
+176,customers.csv,phone,Wrong data type (should be str),Data Type,963071565.0
+177,customers.csv,phone,Wrong data type (should be str),Data Type,5473404015.0
+178,customers.csv,phone,Wrong data type (should be str),Data Type,8892133398.0
+179,customers.csv,phone,Wrong data type (should be str),Data Type,
+180,customers.csv,phone,Wrong data type (should be str),Data Type,
+181,customers.csv,phone,Wrong data type (should be str),Data Type,4709746923.0
+182,customers.csv,phone,Wrong data type (should be str),Data Type,1190890071.0
+183,customers.csv,phone,Wrong data type (should be str),Data Type,3577705588.0
+184,customers.csv,phone,Wrong data type (should be str),Data Type,7939015890.0
+185,customers.csv,phone,Wrong data type (should be str),Data Type,3558043989.0
+186,customers.csv,email,Wrong data type (should be str),Data Type,
+186,customers.csv,phone,Wrong data type (should be str),Data Type,6874759093.0
+187,customers.csv,phone,Wrong data type (should be str),Data Type,132093548.0
+188,customers.csv,phone,Wrong data type (should be str),Data Type,137229332.0
+189,customers.csv,phone,Wrong data type (should be str),Data Type,8409193699.0
+190,customers.csv,phone,Wrong data type (should be str),Data Type,364901833.0
+191,customers.csv,email,Wrong data type (should be str),Data Type,
+191,customers.csv,phone,Wrong data type (should be str),Data Type,7275393816.0
+192,customers.csv,phone,Wrong data type (should be str),Data Type,7894222974.0
+193,customers.csv,phone,Wrong data type (should be str),Data Type,6477456156.0
+194,customers.csv,phone,Wrong data type (should be str),Data Type,4355192931.0
+195,customers.csv,phone,Wrong data type (should be str),Data Type,6271516308.0
+196,customers.csv,phone,Wrong data type (should be str),Data Type,5032174730.0
+197,customers.csv,phone,Wrong data type (should be str),Data Type,448163085.0
+198,customers.csv,phone,Wrong data type (should be str),Data Type,2760178060.0
+199,customers.csv,phone,Wrong data type (should be str),Data Type,4706939970.0
+200,customers.csv,phone,Wrong data type (should be str),Data Type,5443956659.0
+201,customers.csv,phone,Wrong data type (should be str),Data Type,7467469067.0
+202,customers.csv,phone,Wrong data type (should be str),Data Type,8235488538.0
+203,customers.csv,phone,Wrong data type (should be str),Data Type,6771905296.0
+204,customers.csv,phone,Wrong data type (should be str),Data Type,6369971311.0
+205,customers.csv,phone,Wrong data type (should be str),Data Type,
+206,customers.csv,email,Wrong data type (should be str),Data Type,
+206,customers.csv,phone,Wrong data type (should be str),Data Type,9524381849.0
+207,customers.csv,phone,Wrong data type (should be str),Data Type,539630138.0
+208,customers.csv,phone,Wrong data type (should be str),Data Type,6184004342.0
+209,customers.csv,email,Wrong data type (should be str),Data Type,
+209,customers.csv,phone,Wrong data type (should be str),Data Type,1933492581.0
+0,products.csv,price,Wrong data type (should be numeric),Data Type,1152
+1,products.csv,price,Wrong data type (should be numeric),Data Type,1060
+2,products.csv,price,Wrong data type (should be numeric),Data Type,1292
+3,products.csv,price,Wrong data type (should be numeric),Data Type,1824
+4,products.csv,price,Wrong data type (should be numeric),Data Type,1647
+5,products.csv,price,Wrong data type (should be numeric),Data Type,1297
+6,products.csv,price,Wrong data type (should be numeric),Data Type,1444
+7,products.csv,price,Wrong data type (should be numeric),Data Type,567
+8,products.csv,price,Wrong data type (should be numeric),Data Type,-50
+9,products.csv,price,Wrong data type (should be numeric),Data Type,19
+10,products.csv,price,Wrong data type (should be numeric),Data Type,473
+11,products.csv,price,Wrong data type (should be numeric),Data Type,1351
+12,products.csv,price,Wrong data type (should be numeric),Data Type,715
+13,products.csv,price,Wrong data type (should be numeric),Data Type,1169
+14,products.csv,price,Wrong data type (should be numeric),Data Type,1079
+15,products.csv,price,Wrong data type (should be numeric),Data Type,1183
+16,products.csv,price,Wrong data type (should be numeric),Data Type,646
+17,products.csv,price,Wrong data type (should be numeric),Data Type,1250
+18,products.csv,price,Wrong data type (should be numeric),Data Type,1509
+19,products.csv,price,Wrong data type (should be numeric),Data Type,abc
+20,products.csv,price,Wrong data type (should be numeric),Data Type,1655
+21,products.csv,price,Wrong data type (should be numeric),Data Type,994
+22,products.csv,price,Wrong data type (should be numeric),Data Type,171
+23,products.csv,price,Wrong data type (should be numeric),Data Type,abc
+24,products.csv,price,Wrong data type (should be numeric),Data Type,-50
+25,products.csv,price,Wrong data type (should be numeric),Data Type,118
+27,products.csv,price,Wrong data type (should be numeric),Data Type,1193
+28,products.csv,price,Wrong data type (should be numeric),Data Type,989
+29,products.csv,price,Wrong data type (should be numeric),Data Type,1487
+31,products.csv,price,Wrong data type (should be numeric),Data Type,180
+32,products.csv,price,Wrong data type (should be numeric),Data Type,1202
+33,products.csv,price,Wrong data type (should be numeric),Data Type,-50
+34,products.csv,price,Wrong data type (should be numeric),Data Type,758
+35,products.csv,price,Wrong data type (should be numeric),Data Type,281
+36,products.csv,price,Wrong data type (should be numeric),Data Type,366
+37,products.csv,price,Wrong data type (should be numeric),Data Type,1303
+38,products.csv,price,Wrong data type (should be numeric),Data Type,233
+39,products.csv,price,Wrong data type (should be numeric),Data Type,686
+40,products.csv,price,Wrong data type (should be numeric),Data Type,abc
+41,products.csv,price,Wrong data type (should be numeric),Data Type,641
+42,products.csv,price,Wrong data type (should be numeric),Data Type,125
+43,products.csv,price,Wrong data type (should be numeric),Data Type,471
+44,products.csv,price,Wrong data type (should be numeric),Data Type,931
+46,products.csv,price,Wrong data type (should be numeric),Data Type,91
+47,products.csv,price,Wrong data type (should be numeric),Data Type,1570
+48,products.csv,price,Wrong data type (should be numeric),Data Type,1035
+49,products.csv,price,Wrong data type (should be numeric),Data Type,1109
+50,products.csv,price,Wrong data type (should be numeric),Data Type,1785
+51,products.csv,price,Wrong data type (should be numeric),Data Type,abc
+52,products.csv,price,Wrong data type (should be numeric),Data Type,1313
+53,products.csv,price,Wrong data type (should be numeric),Data Type,abc
+54,products.csv,price,Wrong data type (should be numeric),Data Type,1609
+55,products.csv,price,Wrong data type (should be numeric),Data Type,1316
+56,products.csv,price,Wrong data type (should be numeric),Data Type,1115
+57,products.csv,price,Wrong data type (should be numeric),Data Type,1347
+58,products.csv,price,Wrong data type (should be numeric),Data Type,1765
+59,products.csv,price,Wrong data type (should be numeric),Data Type,431
+60,products.csv,price,Wrong data type (should be numeric),Data Type,820
+61,products.csv,price,Wrong data type (should be numeric),Data Type,42
+62,products.csv,price,Wrong data type (should be numeric),Data Type,1409
+63,products.csv,price,Wrong data type (should be numeric),Data Type,1674
+64,products.csv,price,Wrong data type (should be numeric),Data Type,1564
+65,products.csv,price,Wrong data type (should be numeric),Data Type,1283
+66,products.csv,price,Wrong data type (should be numeric),Data Type,1257
+67,products.csv,price,Wrong data type (should be numeric),Data Type,1409
+68,products.csv,price,Wrong data type (should be numeric),Data Type,749
+69,products.csv,price,Wrong data type (should be numeric),Data Type,1831
+70,products.csv,price,Wrong data type (should be numeric),Data Type,222
+71,products.csv,price,Wrong data type (should be numeric),Data Type,763
+72,products.csv,price,Wrong data type (should be numeric),Data Type,abc
+73,products.csv,price,Wrong data type (should be numeric),Data Type,1224
+74,products.csv,price,Wrong data type (should be numeric),Data Type,1924
+75,products.csv,price,Wrong data type (should be numeric),Data Type,1597
+76,products.csv,price,Wrong data type (should be numeric),Data Type,503
+77,products.csv,price,Wrong data type (should be numeric),Data Type,908
+78,products.csv,price,Wrong data type (should be numeric),Data Type,1349
+79,products.csv,price,Wrong data type (should be numeric),Data Type,559
+80,products.csv,price,Wrong data type (should be numeric),Data Type,851
+81,products.csv,price,Wrong data type (should be numeric),Data Type,1222
+82,products.csv,price,Wrong data type (should be numeric),Data Type,1725
+83,products.csv,price,Wrong data type (should be numeric),Data Type,710
+84,products.csv,price,Wrong data type (should be numeric),Data Type,1099
+85,products.csv,price,Wrong data type (should be numeric),Data Type,1188
+86,products.csv,price,Wrong data type (should be numeric),Data Type,277
+87,products.csv,price,Wrong data type (should be numeric),Data Type,abc
+88,products.csv,price,Wrong data type (should be numeric),Data Type,544
+89,products.csv,price,Wrong data type (should be numeric),Data Type,1776
+92,products.csv,price,Wrong data type (should be numeric),Data Type,653
+93,products.csv,price,Wrong data type (should be numeric),Data Type,abc
+94,products.csv,price,Wrong data type (should be numeric),Data Type,1338
+95,products.csv,price,Wrong data type (should be numeric),Data Type,588
+96,products.csv,price,Wrong data type (should be numeric),Data Type,1850
+97,products.csv,price,Wrong data type (should be numeric),Data Type,-50
+98,products.csv,price,Wrong data type (should be numeric),Data Type,682
+99,products.csv,price,Wrong data type (should be numeric),Data Type,797
+100,products.csv,price,Wrong data type (should be numeric),Data Type,588
+101,products.csv,price,Wrong data type (should be numeric),Data Type,1409
+102,products.csv,price,Wrong data type (should be numeric),Data Type,1060
+103,products.csv,price,Wrong data type (should be numeric),Data Type,994
+104,products.csv,price,Wrong data type (should be numeric),Data Type,1222
+0,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1702
+1,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1924
+2,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+3,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3430
+4,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7820
+5,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2594
+6,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6010
+7,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1632
+8,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2236
+9,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,345
+10,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3450
+11,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+12,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1098
+13,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,9120
+14,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,708
+15,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3579
+16,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3552
+17,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+18,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+19,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4772
+20,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+21,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1118
+22,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3564
+23,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1884
+24,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-250
+25,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2982
+26,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1282
+27,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,250
+28,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6565
+29,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1409
+30,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,368
+31,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3180
+32,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5175
+33,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3345
+34,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,84
+35,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2612
+36,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3815
+37,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1923
+38,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1526
+39,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5404
+40,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4240
+41,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1677
+42,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,797
+43,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,255
+44,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3404
+45,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2236
+46,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3128
+47,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4808
+48,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,451
+49,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+50,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8880
+51,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1895
+52,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5395
+53,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6755
+54,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,200
+55,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6388
+56,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7104
+57,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2676
+58,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+59,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4608
+60,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+61,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,715
+62,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2818
+63,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8045
+64,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,277
+65,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3632
+66,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,942
+67,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3815
+68,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,946
+69,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,710
+70,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,155
+71,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1923
+72,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3891
+73,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6620
+74,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3848
+75,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1110
+76,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4014
+77,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3237
+78,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+79,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1169
+80,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,9250
+81,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,641
+82,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5495
+83,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,924
+84,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8045
+85,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+86,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,9120
+87,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,9620
+88,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1060
+89,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2940
+90,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4100
+91,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1200
+92,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+93,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,60
+94,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3956
+95,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2440
+96,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1134
+97,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2940
+98,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,932
+99,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,236
+100,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2564
+101,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8625
+102,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3327
+103,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1430
+104,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,100
+105,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1098
+106,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2046
+107,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4140
+108,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,831
+109,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,249
+110,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3230
+111,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,125
+112,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4527
+113,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,168
+114,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3956
+115,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6460
+116,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1674
+117,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,851
+118,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1764
+119,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6620
+120,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,932
+121,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1152
+122,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4332
+123,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3976
+124,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1923
+125,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,314
+126,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3205
+127,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,300
+128,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6110
+129,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3507
+130,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,280
+131,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,38
+132,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8275
+133,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,354
+134,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3180
+135,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3815
+136,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1256
+137,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8825
+138,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,942
+139,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,118
+140,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4732
+141,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6565
+142,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4436
+143,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3666
+144,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-200
+145,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3404
+146,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+147,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2120
+148,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,640
+149,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3848
+150,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3750
+151,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1609
+152,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2888
+153,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1526
+154,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,544
+155,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,699
+156,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,42
+157,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4540
+158,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+159,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3849
+160,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,680
+161,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5550
+162,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2095
+163,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2304
+164,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8235
+165,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,567
+166,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2584
+167,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1764
+168,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,277
+169,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,100
+170,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8825
+171,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2046
+172,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6745
+173,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,125
+174,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1282
+175,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3507
+176,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5948
+177,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4436
+178,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,646
+179,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,204
+180,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2176
+181,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1303
+182,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4710
+183,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6745
+184,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,250
+185,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6460
+186,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,168
+187,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1630
+188,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1509
+189,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2366
+190,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,233
+191,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,91
+192,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3430
+193,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2793
+194,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,641
+195,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4970
+196,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1351
+197,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8880
+198,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,159
+199,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-50
+200,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5000
+201,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3891
+202,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,171
+203,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,942
+204,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1349
+205,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5404
+206,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,500
+207,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,994
+208,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,364
+209,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1316
+210,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,588
+211,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4332
+212,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-250
+213,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,431
+214,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,440
+215,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3956
+216,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,60
+217,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,222
+218,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1283
+219,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1988
+220,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2130
+221,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,718
+222,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3549
+223,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,233
+224,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1464
+225,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1224
+226,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4896
+227,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1464
+228,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+229,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1224
+230,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2514
+231,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4316
+232,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2304
+233,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1222
+234,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4316
+235,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5168
+236,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5168
+237,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5776
+238,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+239,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,366
+240,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,720
+241,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,616
+242,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,57
+243,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2366
+244,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5575
+245,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4527
+246,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2070
+247,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+248,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,862
+249,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,931
+250,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1118
+251,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5028
+252,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,188
+253,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3348
+254,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6110
+255,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,9620
+256,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4888
+257,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6280
+258,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,674
+259,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1060
+260,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5295
+261,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5636
+262,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+263,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1597
+264,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1409
+265,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1509
+266,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,851
+267,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7045
+268,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,471
+269,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1283
+270,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1134
+271,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2120
+272,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,118
+273,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7296
+274,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5575
+275,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3404
+276,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1776
+277,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-200
+278,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5550
+279,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,95
+280,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1509
+281,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,276
+282,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1235
+283,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1674
+284,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1959
+285,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3700
+286,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6565
+287,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,91
+288,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,366
+289,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4140
+290,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1124
+291,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7045
+292,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3575
+293,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5493
+294,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4240
+295,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,471
+296,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+297,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1674
+298,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8825
+299,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,805
+300,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3956
+301,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1884
+302,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,350
+303,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7850
+304,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3105
+305,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5028
+306,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5355
+307,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1420
+308,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,57
+309,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5404
+310,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5493
+311,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5000
+312,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8625
+313,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1816
+314,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2218
+315,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1088
+316,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3297
+317,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1725
+318,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3348
+319,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6285
+320,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+321,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+322,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4460
+323,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1297
+324,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3237
+325,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2289
+326,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1924
+327,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6588
+328,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3552
+329,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1385
+330,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,400
+331,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3018
+332,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,513
+333,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-200
+334,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5212
+335,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+336,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5575
+337,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1374
+338,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6755
+339,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,715
+340,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5328
+341,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1115
+342,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3549
+343,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,46
+344,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6690
+345,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2982
+346,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,180
+347,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3218
+348,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,121
+349,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,281
+350,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+351,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1764
+352,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,632
+353,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7045
+354,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,500
+355,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3237
+356,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1701
+357,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+358,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,9250
+359,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2793
+360,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2230
+361,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,460
+362,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2444
+363,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,794
+364,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,466
+365,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+366,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+367,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,210
+368,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3745
+369,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,596
+370,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,570
+371,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1297
+372,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+373,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1292
+374,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+375,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+376,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1701
+377,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1959
+378,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2338
+379,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,851
+380,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1884
+381,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,625
+382,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,855
+383,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+384,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8235
+385,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2566
+386,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1347
+387,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3237
+388,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1202
+389,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-50
+390,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1923
+391,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3700
+392,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1905
+393,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3579
+394,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5636
+395,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1487
+396,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4140
+397,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,951
+398,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5175
+399,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,214
+400,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3976
+401,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4460
+402,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1292
+403,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6110
+404,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,171
+405,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3771
+406,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7296
+407,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2352
+408,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1647
+409,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4227
+410,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,182
+411,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1364
+412,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,364
+413,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1419
+414,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5132
+415,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,277
+416,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+417,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1702
+418,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1409
+419,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1409
+420,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1850
+421,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1079
+422,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5300
+423,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4100
+424,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,484
+425,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3948
+426,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1085
+427,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2818
+428,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2840
+429,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5948
+430,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6436
+431,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+432,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4888
+433,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3575
+434,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5264
+435,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,536
+436,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,37
+437,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3666
+438,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7435
+439,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5300
+440,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1349
+441,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2158
+442,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1765
+443,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2218
+444,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4808
+445,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1016
+446,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,987
+447,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3745
+448,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,260
+449,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2793
+450,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1564
+451,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2888
+452,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3939
+453,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-200
+454,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7220
+455,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,646
+456,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1409
+457,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1498
+458,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8925
+459,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-50
+460,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1075
+461,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,932
+462,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1776
+463,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6460
+464,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+465,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1313
+466,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,400
+467,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4396
+468,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6388
+469,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,444
+470,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7060
+471,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5636
+472,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,478
+473,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2268
+474,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1297
+475,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,682
+476,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1297
+477,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4461
+478,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5396
+479,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6436
+480,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,936
+481,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-200
+482,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2386
+483,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3552
+484,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2405
+485,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+486,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6256
+487,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,942
+488,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4100
+489,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6690
+490,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+491,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2145
+492,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7220
+493,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-150
+494,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3180
+495,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5575
+496,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4460
+497,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,233
+498,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-250
+499,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+500,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5388
+501,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7545
+502,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4970
+503,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,749
+504,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+505,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7985
+506,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6256
+507,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,749
+508,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1134
+509,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1862
+510,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,699
+511,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,567
+512,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5022
+513,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-250
+514,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,84
+515,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,300
+516,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1609
+517,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1349
+518,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,580
+519,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3549
+520,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5028
+521,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2110
+522,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4941
+523,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+524,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1303
+525,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1409
+526,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7435
+527,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3410
+528,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,431
+529,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4772
+530,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6900
+531,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,9155
+532,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1509
+533,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3404
+534,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2584
+535,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,500
+536,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,400
+537,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,60
+538,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6285
+539,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3327
+540,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,749
+541,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4255
+542,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2702
+543,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,544
+544,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1340
+545,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-50
+546,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1959
+547,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6388
+548,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1765
+549,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,46
+550,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5328
+551,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2376
+552,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3575
+553,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5300
+554,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2247
+555,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+556,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,666
+557,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,710
+558,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,686
+559,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1292
+560,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3745
+561,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,129
+562,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1862
+563,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5965
+564,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,554
+565,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1035
+566,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+567,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+568,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4888
+569,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,588
+570,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3345
+571,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7296
+572,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3552
+573,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4527
+574,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,300
+575,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2155
+576,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+577,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,682
+578,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,281
+579,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+580,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+581,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1924
+582,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,552
+583,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,12
+584,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3188
+585,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,400
+586,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7545
+587,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+588,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2676
+589,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7850
+590,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8880
+591,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5352
+592,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,431
+593,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5395
+594,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+595,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8925
+596,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,544
+597,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2355
+598,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,500
+599,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,431
+600,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+601,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3771
+602,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5495
+603,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4888
+604,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1088
+605,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4527
+606,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2012
+607,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2404
+608,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5188
+609,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,104
+610,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,684
+611,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,554
+612,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4460
+613,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4888
+614,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7140
+615,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4965
+616,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5352
+617,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3430
+618,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,500
+619,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4970
+620,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,431
+621,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+622,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2724
+623,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,603
+624,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,500
+625,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4255
+626,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,513
+627,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1988
+628,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8045
+629,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5915
+630,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,266
+631,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1283
+632,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2448
+633,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,210
+634,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3345
+635,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5495
+636,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6696
+637,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7045
+638,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+639,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1282
+640,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+641,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2376
+642,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,616
+643,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,972
+644,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4461
+645,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1372
+646,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1098
+647,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3700
+648,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,500
+649,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2198
+650,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,168
+651,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1409
+652,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5965
+653,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5168
+654,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,628
+655,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1313
+656,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1347
+657,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,270
+658,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5493
+659,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,55
+660,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4732
+661,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1850
+662,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3700
+663,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,555
+664,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2158
+665,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,182
+666,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8925
+667,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,100
+668,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3976
+669,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3771
+670,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,405
+671,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5472
+672,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4752
+673,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1176
+674,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3579
+675,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3218
+676,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1640
+677,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3140
+678,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+679,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1701
+680,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,300
+681,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1338
+682,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3410
+683,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,276
+684,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,110
+685,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1099
+686,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2218
+687,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2366
+688,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1134
+689,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2793
+690,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4945
+691,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,944
+692,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4527
+693,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,416
+694,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5388
+695,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,97
+696,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+697,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2584
+698,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4240
+699,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-50
+700,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,455
+701,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3230
+702,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1609
+703,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3032
+704,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2515
+705,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7060
+706,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1816
+707,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2515
+708,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+709,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1959
+710,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1193
+711,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+712,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,182
+713,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2566
+714,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,281
+715,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2058
+716,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1176
+717,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,76
+718,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+719,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2835
+720,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5395
+721,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,749
+722,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6280
+723,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3648
+724,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3180
+725,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4692
+726,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,500
+727,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1923
+728,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+729,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4227
+730,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1347
+731,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4240
+732,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,732
+733,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1570
+734,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2176
+735,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1509
+736,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,472
+737,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2145
+738,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2155
+739,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4970
+740,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3891
+741,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1419
+742,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1060
+743,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2982
+744,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4896
+745,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1283
+746,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,76
+747,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5940
+748,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7060
+749,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,930
+750,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3194
+751,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7220
+752,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,42
+753,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5545
+754,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1283
+755,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,354
+756,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1405
+757,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1892
+758,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1764
+759,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3700
+760,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,334
+761,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1597
+762,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3771
+763,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5175
+764,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,536
+765,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3507
+766,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1405
+767,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1176
+768,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7060
+769,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4676
+770,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1176
+771,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6280
+772,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+773,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1526
+774,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4888
+775,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1220
+776,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1008
+777,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-50
+778,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+779,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,182
+780,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1351
+781,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,554
+782,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3549
+783,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1609
+784,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,222
+785,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,260
+786,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,205
+787,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1372
+788,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1978
+789,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2702
+790,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6588
+791,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1487
+792,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2058
+793,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7435
+794,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1526
+795,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2386
+796,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+797,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,431
+798,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,9155
+799,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2268
+800,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,200
+801,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3985
+802,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,76
+803,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1702
+804,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4436
+805,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5772
+806,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,233
+807,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,820
+808,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2584
+809,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7400
+810,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,855
+811,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5550
+812,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1169
+813,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5168
+814,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4888
+815,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+816,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+817,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6436
+818,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,125
+819,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3848
+820,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,544
+821,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4227
+822,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2365
+823,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3188
+824,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,822
+825,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,641
+826,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,763
+827,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,763
+828,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4692
+829,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+830,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-200
+831,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,559
+832,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6256
+833,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2090
+834,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7140
+835,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,797
+836,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4888
+837,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1183
+838,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1701
+839,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3575
+840,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,250
+841,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1884
+842,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,588
+843,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6515
+844,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1257
+845,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,300
+846,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,360
+847,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3632
+848,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,256
+849,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6010
+850,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+851,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1526
+852,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4692
+853,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3552
+854,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,862
+855,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3606
+856,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1640
+857,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1347
+858,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+859,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2376
+860,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5028
+861,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4140
+862,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3430
+863,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,590
+864,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8880
+865,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1293
+866,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4710
+867,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8275
+868,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,100
+869,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1655
+870,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7296
+871,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+872,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3724
+873,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+874,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7324
+875,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,828
+876,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1776
+877,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3205
+878,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5175
+879,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1308
+880,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1347
+881,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,989
+882,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+883,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,180
+884,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1222
+885,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7545
+886,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,300
+887,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3724
+888,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,360
+889,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2982
+890,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3745
+891,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8045
+892,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3909
+893,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,715
+894,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2564
+895,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,354
+896,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1988
+897,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2176
+898,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8880
+899,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4540
+900,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4316
+901,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,7104
+902,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3985
+903,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3564
+904,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1702
+905,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1430
+906,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,366
+907,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,763
+908,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3606
+909,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,120
+910,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1496
+911,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1053
+912,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4896
+913,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,312
+914,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3700
+915,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5550
+916,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1464
+917,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+918,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2090
+919,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+920,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1090
+921,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,57
+922,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-150
+923,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4692
+924,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,242
+925,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4460
+926,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1409
+927,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1765
+928,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,720
+929,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3575
+930,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4396
+931,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6735
+932,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1409
+933,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3549
+934,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,946
+935,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1169
+936,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,441
+937,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,513
+938,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3180
+939,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4047
+940,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4655
+941,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,472
+942,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2940
+943,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1088
+944,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,471
+945,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+946,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3985
+947,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3230
+948,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4316
+949,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1347
+950,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5550
+951,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,8625
+952,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4240
+953,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5212
+954,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-100
+955,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2310
+956,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6285
+957,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2247
+958,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
+959,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1923
+960,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3549
+961,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4227
+962,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5355
+963,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1224
+964,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5252
+965,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,5776
+966,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3976
+967,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,239
+968,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1430
+969,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6436
+970,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3105
+971,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,843
+972,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3948
+973,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3662
+974,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-200
+975,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4752
+976,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4772
+977,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3579
+978,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4396
+979,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,2698
+980,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,390
+981,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,500
+982,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,6010
+983,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,503
+984,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,3205
+985,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,342
+986,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,932
+987,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1134
+988,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,375
+989,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4041
+990,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,445
+991,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,254
+992,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,4047
+993,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,360
+994,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1816
+995,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1632
+996,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,1862
+997,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,-150
+998,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,431
+999,orders.csv,total_amount,Wrong data type (should be numeric),Data Type,abc
