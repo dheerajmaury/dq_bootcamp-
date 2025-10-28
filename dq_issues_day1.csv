@@ -433,6 +433,100 @@ row_num,file,column,issue,dimension,example
 974,orders.csv,total_amount,Invalid or negative total_amount,Validity,-200
 997,orders.csv,total_amount,Invalid or negative total_amount,Validity,-150
 999,orders.csv,total_amount,Invalid or negative total_amount,Validity,abc
+0,customers.csv,country,Invalid country code,Validity,MX
+1,customers.csv,country,Invalid country code,Validity,CN
+2,customers.csv,country,Invalid country code,Validity,CN
+3,customers.csv,country,Invalid country code,Validity,MX
+4,customers.csv,country,Invalid country code,Validity,CN
+7,customers.csv,country,Invalid country code,Validity,MX
+13,customers.csv,country,Invalid country code,Validity,DE
+15,customers.csv,country,Invalid country code,Validity,CN
+23,customers.csv,country,Invalid country code,Validity,MX
+25,customers.csv,country,Invalid country code,Validity,DE
+27,customers.csv,country,Invalid country code,Validity,MX
+29,customers.csv,country,Invalid country code,Validity,DE
+30,customers.csv,country,Invalid country code,Validity,CN
+33,customers.csv,country,Invalid country code,Validity,DE
+37,customers.csv,country,Invalid country code,Validity,DE
+40,customers.csv,country,Invalid country code,Validity,CN
+41,customers.csv,country,Invalid country code,Validity,CN
+43,customers.csv,country,Invalid country code,Validity,DE
+45,customers.csv,country,Invalid country code,Validity,MX
+50,customers.csv,country,Invalid country code,Validity,CN
+51,customers.csv,country,Invalid country code,Validity,CN
+53,customers.csv,country,Invalid country code,Validity,DE
+56,customers.csv,country,Invalid country code,Validity,CN
+57,customers.csv,country,Invalid country code,Validity,CN
+59,customers.csv,country,Invalid country code,Validity,MX
+60,customers.csv,country,Invalid country code,Validity,DE
+63,customers.csv,country,Invalid country code,Validity,MX
+65,customers.csv,country,Invalid country code,Validity,DE
+68,customers.csv,country,Invalid country code,Validity,CN
+69,customers.csv,country,Invalid country code,Validity,CN
+72,customers.csv,country,Invalid country code,Validity,MX
+73,customers.csv,country,Invalid country code,Validity,MX
+78,customers.csv,country,Invalid country code,Validity,MX
+79,customers.csv,country,Invalid country code,Validity,MX
+81,customers.csv,country,Invalid country code,Validity,DE
+82,customers.csv,country,Invalid country code,Validity,MX
+84,customers.csv,country,Invalid country code,Validity,MX
+88,customers.csv,country,Invalid country code,Validity,DE
+89,customers.csv,country,Invalid country code,Validity,CN
+90,customers.csv,country,Invalid country code,Validity,MX
+92,customers.csv,country,Invalid country code,Validity,DE
+97,customers.csv,country,Invalid country code,Validity,CN
+98,customers.csv,country,Invalid country code,Validity,CN
+104,customers.csv,country,Invalid country code,Validity,MX
+108,customers.csv,country,Invalid country code,Validity,DE
+112,customers.csv,country,Invalid country code,Validity,CN
+114,customers.csv,country,Invalid country code,Validity,DE
+118,customers.csv,country,Invalid country code,Validity,CN
+120,customers.csv,country,Invalid country code,Validity,DE
+121,customers.csv,country,Invalid country code,Validity,MX
+126,customers.csv,country,Invalid country code,Validity,DE
+127,customers.csv,country,Invalid country code,Validity,CN
+129,customers.csv,country,Invalid country code,Validity,DE
+130,customers.csv,country,Invalid country code,Validity,DE
+134,customers.csv,country,Invalid country code,Validity,MX
+136,customers.csv,country,Invalid country code,Validity,MX
+137,customers.csv,country,Invalid country code,Validity,DE
+139,customers.csv,country,Invalid country code,Validity,CN
+140,customers.csv,country,Invalid country code,Validity,MX
+143,customers.csv,country,Invalid country code,Validity,DE
+146,customers.csv,country,Invalid country code,Validity,MX
+147,customers.csv,country,Invalid country code,Validity,DE
+148,customers.csv,country,Invalid country code,Validity,MX
+149,customers.csv,country,Invalid country code,Validity,DE
+150,customers.csv,country,Invalid country code,Validity,DE
+151,customers.csv,country,Invalid country code,Validity,DE
+152,customers.csv,country,Invalid country code,Validity,MX
+154,customers.csv,country,Invalid country code,Validity,MX
+156,customers.csv,country,Invalid country code,Validity,DE
+157,customers.csv,country,Invalid country code,Validity,CN
+162,customers.csv,country,Invalid country code,Validity,DE
+165,customers.csv,country,Invalid country code,Validity,CN
+166,customers.csv,country,Invalid country code,Validity,MX
+169,customers.csv,country,Invalid country code,Validity,CN
+170,customers.csv,country,Invalid country code,Validity,CN
+172,customers.csv,country,Invalid country code,Validity,CN
+175,customers.csv,country,Invalid country code,Validity,DE
+176,customers.csv,country,Invalid country code,Validity,DE
+177,customers.csv,country,Invalid country code,Validity,CN
+178,customers.csv,country,Invalid country code,Validity,DE
+180,customers.csv,country,Invalid country code,Validity,MX
+185,customers.csv,country,Invalid country code,Validity,MX
+186,customers.csv,country,Invalid country code,Validity,MX
+187,customers.csv,country,Invalid country code,Validity,CN
+189,customers.csv,country,Invalid country code,Validity,CN
+190,customers.csv,country,Invalid country code,Validity,CN
+191,customers.csv,country,Invalid country code,Validity,DE
+198,customers.csv,country,Invalid country code,Validity,MX
+199,customers.csv,country,Invalid country code,Validity,DE
+201,customers.csv,country,Invalid country code,Validity,MX
+203,customers.csv,country,Invalid country code,Validity,DE
+205,customers.csv,country,Invalid country code,Validity,DE
+206,customers.csv,country,Invalid country code,Validity,DE
+208,customers.csv,country,Invalid country code,Validity,MX
 1,products.csv,sku,Duplicate SKU,Uniqueness,P102
 21,products.csv,sku,Duplicate SKU,Uniqueness,P122
 67,products.csv,sku,Duplicate SKU,Uniqueness,P168
@@ -658,297 +752,477 @@ row_num,file,column,issue,dimension,example
 979,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
 987,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
 993,orders.csv,customer_id,Orphan order (customer_id not found),Consistency,999999
+19,products.csv,product_name,Product name not in title case,Consistency,
+27,products.csv,product_name,Product name not in title case,Consistency,
+42,products.csv,product_name,Product name not in title case,Consistency,
+53,products.csv,product_name,Product name not in title case,Consistency,
+68,products.csv,product_name,Product name not in title case,Consistency,
+81,products.csv,product_name,Product name not in title case,Consistency,
+86,products.csv,product_name,Product name not in title case,Consistency,
+88,products.csv,product_name,Product name not in title case,Consistency,
+91,products.csv,product_name,Product name not in title case,Consistency,
+92,products.csv,product_name,Product name not in title case,Consistency,
+93,products.csv,product_name,Product name not in title case,Consistency,
+94,products.csv,product_name,Product name not in title case,Consistency,
+104,products.csv,product_name,Product name not in title case,Consistency,
 2,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 2676.0
+2,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 1338.0
 11,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 5295.0
+11,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 1765.0
 20,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 900.0
+20,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 180.0
+24,orders.csv,total_amount,Order total less than product price,Accuracy,-250 < -50.0
 49,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 2070.0
+49,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 1035.0
+78,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < -50.0
 104,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,100 vs 682.0
+104,orders.csv,total_amount,Order total less than product price,Accuracy,100 < 682.0
 127,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,300 vs 3606.0
+127,orders.csv,total_amount,Order total less than product price,Accuracy,300 < 1202.0
+144,orders.csv,total_amount,Order total less than product price,Accuracy,-200 < -50.0
 169,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,100 vs 994.0
+169,orders.csv,total_amount,Order total less than product price,Accuracy,100 < 994.0
+212,orders.csv,total_amount,Order total less than product price,Accuracy,-250 < -50.0
 228,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 3632.0
+228,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 908.0
 262,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 354.0
+262,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 118.0
+277,orders.csv,total_amount,Order total less than product price,Accuracy,-200 < -50.0
 330,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,400 vs 4460.0
+330,orders.csv,total_amount,Order total less than product price,Accuracy,400 < 1115.0
+333,orders.csv,total_amount,Order total less than product price,Accuracy,-200 < -50.0
 354,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,500 vs 3230.0
+354,orders.csv,total_amount,Order total less than product price,Accuracy,500 < 646.0
 372,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 3848.0
+372,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 1924.0
 375,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 2514.0
+375,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 1257.0
 416,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 6485.0
+416,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 1297.0
 431,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 900.0
+431,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 180.0
+453,orders.csv,total_amount,Order total less than product price,Accuracy,-200 < -50.0
 464,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 989.0
+464,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 989.0
 466,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,400 vs 7104.0
+466,orders.csv,total_amount,Order total less than product price,Accuracy,400 < 1776.0
+481,orders.csv,total_amount,Order total less than product price,Accuracy,-200 < -50.0
+493,orders.csv,total_amount,Order total less than product price,Accuracy,-150 < -50.0
+498,orders.csv,total_amount,Order total less than product price,Accuracy,-250 < -50.0
 499,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs -200.0
+499,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < -50.0
+504,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < -50.0
+513,orders.csv,total_amount,Order total less than product price,Accuracy,-250 < -50.0
 515,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,300 vs 2967.0
+515,orders.csv,total_amount,Order total less than product price,Accuracy,300 < 989.0
 536,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,400 vs 2236.0
+536,orders.csv,total_amount,Order total less than product price,Accuracy,400 < 559.0
 555,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 4240.0
+555,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 1060.0
 566,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 1776.0
+566,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 1776.0
 574,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,300 vs 3909.0
+574,orders.csv,total_amount,Order total less than product price,Accuracy,300 < 1303.0
 579,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 2218.0
+579,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 1109.0
 585,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,400 vs 4896.0
+585,orders.csv,total_amount,Order total less than product price,Accuracy,400 < 1224.0
 594,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 2058.0
+594,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 686.0
 598,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,500 vs 7045.0
+598,orders.csv,total_amount,Order total less than product price,Accuracy,500 < 1409.0
 600,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 6755.0
+600,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 1351.0
 618,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,500 vs -250.0
 640,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 4676.0
+640,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 1169.0
 648,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,500 vs 5175.0
+648,orders.csv,total_amount,Order total less than product price,Accuracy,500 < 1035.0
 667,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,100 vs 588.0
+667,orders.csv,total_amount,Order total less than product price,Accuracy,100 < 588.0
 680,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,300 vs 1632.0
+680,orders.csv,total_amount,Order total less than product price,Accuracy,300 < 544.0
 696,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 2594.0
+696,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 1297.0
 708,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 1420.0
+708,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 710.0
 711,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 95.0
+711,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 19.0
 726,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,500 vs -250.0
 728,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 6620.0
+728,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 1655.0
 772,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 444.0
+772,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 222.0
 800,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,200 vs 3848.0
+800,orders.csv,total_amount,Order total less than product price,Accuracy,200 < 1924.0
 815,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 1516.0
+815,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 758.0
 829,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 1115.0
+829,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 1115.0
+830,orders.csv,total_amount,Order total less than product price,Accuracy,-200 < -50.0
 845,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,300 vs 1764.0
+845,orders.csv,total_amount,Order total less than product price,Accuracy,300 < 588.0
+850,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < -50.0
 868,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,100 vs 503.0
+868,orders.csv,total_amount,Order total less than product price,Accuracy,100 < 503.0
 871,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 1632.0
+871,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 544.0
 873,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 42.0
+873,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 42.0
 886,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,300 vs 1413.0
+886,orders.csv,total_amount,Order total less than product price,Accuracy,300 < 471.0
 917,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 2676.0
+917,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 1338.0
 919,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 9155.0
+919,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 1831.0
+922,orders.csv,total_amount,Order total less than product price,Accuracy,-150 < -50.0
 945,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 95.0
+945,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 19.0
 954,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,-100 vs 989.0
+954,orders.csv,total_amount,Order total less than product price,Accuracy,-100 < 989.0
+974,orders.csv,total_amount,Order total less than product price,Accuracy,-200 < -50.0
 981,orders.csv,total_amount,Mismatch with quantity×price,Accuracy,500 vs 3265.0
-0,customers.csv,phone,Wrong data type (should be str),Data Type,
-1,customers.csv,phone,Wrong data type (should be str),Data Type,5895790679.0
-2,customers.csv,phone,Wrong data type (should be str),Data Type,
-3,customers.csv,phone,Wrong data type (should be str),Data Type,3454426564.0
-4,customers.csv,phone,Wrong data type (should be str),Data Type,8358273786.0
-5,customers.csv,phone,Wrong data type (should be str),Data Type,
-6,customers.csv,phone,Wrong data type (should be str),Data Type,1681646798.0
-7,customers.csv,phone,Wrong data type (should be str),Data Type,1303860732.0
-8,customers.csv,phone,Wrong data type (should be str),Data Type,8537055793.0
-9,customers.csv,phone,Wrong data type (should be str),Data Type,5324994778.0
-10,customers.csv,phone,Wrong data type (should be str),Data Type,3949869.0
-11,customers.csv,phone,Wrong data type (should be str),Data Type,3307981436.0
-12,customers.csv,phone,Wrong data type (should be str),Data Type,1356531284.0
-13,customers.csv,phone,Wrong data type (should be str),Data Type,6862057606.0
-14,customers.csv,phone,Wrong data type (should be str),Data Type,8817153044.0
-15,customers.csv,phone,Wrong data type (should be str),Data Type,9940777044.0
+981,orders.csv,total_amount,Order total less than product price,Accuracy,500 < 653.0
+997,orders.csv,total_amount,Order total less than product price,Accuracy,-150 < -50.0
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,101
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,102
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,103
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,104
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,105
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,106
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,107
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,108
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,109
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,110
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,111
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,112
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,113
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,114
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,115
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,116
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,117
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,118
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,119
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,120
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,121
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,122
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,123
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,124
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,125
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,126
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,127
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,128
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,129
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,130
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,131
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,132
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,133
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,134
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,135
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,136
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,137
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,138
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,139
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,140
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,141
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,142
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,143
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,144
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,145
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,146
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,147
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,148
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,149
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,150
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,151
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,152
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,153
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,154
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,155
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,156
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,157
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,158
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,159
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,160
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,161
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,162
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,163
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,164
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,165
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,166
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,167
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,168
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,169
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,170
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,171
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,172
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,173
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,174
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,175
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,176
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,177
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,178
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,179
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,180
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,181
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,182
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,183
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,184
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,185
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,186
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,187
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,188
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,189
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,190
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,191
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,192
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,193
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,194
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,195
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,196
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,197
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,198
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,199
+-,customers.csv / products.csv,customer_id/product_id,ID reused across files,Uniqueness,200
+0,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+1,customers.csv,phone,Wrong data type (should be str/int),Data Type,5895790679.0
+2,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+3,customers.csv,phone,Wrong data type (should be str/int),Data Type,3454426564.0
+4,customers.csv,phone,Wrong data type (should be str/int),Data Type,8358273786.0
+5,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+6,customers.csv,phone,Wrong data type (should be str/int),Data Type,1681646798.0
+7,customers.csv,phone,Wrong data type (should be str/int),Data Type,1303860732.0
+8,customers.csv,phone,Wrong data type (should be str/int),Data Type,8537055793.0
+9,customers.csv,phone,Wrong data type (should be str/int),Data Type,5324994778.0
+10,customers.csv,phone,Wrong data type (should be str/int),Data Type,3949869.0
+11,customers.csv,phone,Wrong data type (should be str/int),Data Type,3307981436.0
+12,customers.csv,phone,Wrong data type (should be str/int),Data Type,1356531284.0
+13,customers.csv,phone,Wrong data type (should be str/int),Data Type,6862057606.0
+14,customers.csv,phone,Wrong data type (should be str/int),Data Type,8817153044.0
+15,customers.csv,phone,Wrong data type (should be str/int),Data Type,9940777044.0
 16,customers.csv,email,Wrong data type (should be str),Data Type,
-16,customers.csv,phone,Wrong data type (should be str),Data Type,913616877.0
-17,customers.csv,phone,Wrong data type (should be str),Data Type,8977375009.0
-18,customers.csv,phone,Wrong data type (should be str),Data Type,908180019.0
-19,customers.csv,phone,Wrong data type (should be str),Data Type,1654472035.0
-20,customers.csv,phone,Wrong data type (should be str),Data Type,5682587157.0
-21,customers.csv,phone,Wrong data type (should be str),Data Type,3918732375.0
-22,customers.csv,phone,Wrong data type (should be str),Data Type,4588343711.0
-23,customers.csv,phone,Wrong data type (should be str),Data Type,6184004342.0
-24,customers.csv,phone,Wrong data type (should be str),Data Type,3681329374.0
-25,customers.csv,phone,Wrong data type (should be str),Data Type,3735760040.0
+16,customers.csv,phone,Wrong data type (should be str/int),Data Type,913616877.0
+17,customers.csv,phone,Wrong data type (should be str/int),Data Type,8977375009.0
+18,customers.csv,phone,Wrong data type (should be str/int),Data Type,908180019.0
+19,customers.csv,phone,Wrong data type (should be str/int),Data Type,1654472035.0
+20,customers.csv,phone,Wrong data type (should be str/int),Data Type,5682587157.0
+21,customers.csv,phone,Wrong data type (should be str/int),Data Type,3918732375.0
+22,customers.csv,phone,Wrong data type (should be str/int),Data Type,4588343711.0
+23,customers.csv,phone,Wrong data type (should be str/int),Data Type,6184004342.0
+24,customers.csv,phone,Wrong data type (should be str/int),Data Type,3681329374.0
+25,customers.csv,phone,Wrong data type (should be str/int),Data Type,3735760040.0
 26,customers.csv,email,Wrong data type (should be str),Data Type,
-26,customers.csv,phone,Wrong data type (should be str),Data Type,2604231807.0
-27,customers.csv,phone,Wrong data type (should be str),Data Type,2405787778.0
-28,customers.csv,phone,Wrong data type (should be str),Data Type,7154527238.0
-29,customers.csv,phone,Wrong data type (should be str),Data Type,7455913063.0
-30,customers.csv,phone,Wrong data type (should be str),Data Type,2266896280.0
-31,customers.csv,phone,Wrong data type (should be str),Data Type,2446712388.0
-32,customers.csv,phone,Wrong data type (should be str),Data Type,2521976976.0
-33,customers.csv,phone,Wrong data type (should be str),Data Type,5148922288.0
-34,customers.csv,phone,Wrong data type (should be str),Data Type,6946695171.0
-35,customers.csv,phone,Wrong data type (should be str),Data Type,8658621060.0
-36,customers.csv,phone,Wrong data type (should be str),Data Type,
+26,customers.csv,phone,Wrong data type (should be str/int),Data Type,2604231807.0
+27,customers.csv,phone,Wrong data type (should be str/int),Data Type,2405787778.0
+28,customers.csv,phone,Wrong data type (should be str/int),Data Type,7154527238.0
+29,customers.csv,phone,Wrong data type (should be str/int),Data Type,7455913063.0
+30,customers.csv,phone,Wrong data type (should be str/int),Data Type,2266896280.0
+31,customers.csv,phone,Wrong data type (should be str/int),Data Type,2446712388.0
+32,customers.csv,phone,Wrong data type (should be str/int),Data Type,2521976976.0
+33,customers.csv,phone,Wrong data type (should be str/int),Data Type,5148922288.0
+34,customers.csv,phone,Wrong data type (should be str/int),Data Type,6946695171.0
+35,customers.csv,phone,Wrong data type (should be str/int),Data Type,8658621060.0
+36,customers.csv,phone,Wrong data type (should be str/int),Data Type,
 37,customers.csv,email,Wrong data type (should be str),Data Type,
-37,customers.csv,phone,Wrong data type (should be str),Data Type,
-38,customers.csv,phone,Wrong data type (should be str),Data Type,9318635330.0
+37,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+38,customers.csv,phone,Wrong data type (should be str/int),Data Type,9318635330.0
 39,customers.csv,email,Wrong data type (should be str),Data Type,
-39,customers.csv,phone,Wrong data type (should be str),Data Type,1545204463.0
-40,customers.csv,phone,Wrong data type (should be str),Data Type,4635522470.0
+39,customers.csv,phone,Wrong data type (should be str/int),Data Type,1545204463.0
+40,customers.csv,phone,Wrong data type (should be str/int),Data Type,4635522470.0
 41,customers.csv,email,Wrong data type (should be str),Data Type,
-41,customers.csv,phone,Wrong data type (should be str),Data Type,5927903769.0
-42,customers.csv,phone,Wrong data type (should be str),Data Type,2825291345.0
+41,customers.csv,phone,Wrong data type (should be str/int),Data Type,5927903769.0
+42,customers.csv,phone,Wrong data type (should be str/int),Data Type,2825291345.0
 43,customers.csv,email,Wrong data type (should be str),Data Type,
-43,customers.csv,phone,Wrong data type (should be str),Data Type,9524381849.0
-44,customers.csv,phone,Wrong data type (should be str),Data Type,7937058581.0
-45,customers.csv,phone,Wrong data type (should be str),Data Type,8544014031.0
-46,customers.csv,phone,Wrong data type (should be str),Data Type,7267257133.0
+43,customers.csv,phone,Wrong data type (should be str/int),Data Type,9524381849.0
+44,customers.csv,phone,Wrong data type (should be str/int),Data Type,7937058581.0
+45,customers.csv,phone,Wrong data type (should be str/int),Data Type,8544014031.0
+46,customers.csv,phone,Wrong data type (should be str/int),Data Type,7267257133.0
 47,customers.csv,email,Wrong data type (should be str),Data Type,
-47,customers.csv,phone,Wrong data type (should be str),Data Type,2868207632.0
-48,customers.csv,phone,Wrong data type (should be str),Data Type,9595201998.0
+47,customers.csv,phone,Wrong data type (should be str/int),Data Type,2868207632.0
+48,customers.csv,phone,Wrong data type (should be str/int),Data Type,9595201998.0
 49,customers.csv,email,Wrong data type (should be str),Data Type,
-49,customers.csv,phone,Wrong data type (should be str),Data Type,5388267637.0
-50,customers.csv,phone,Wrong data type (should be str),Data Type,1428873001.0
-51,customers.csv,phone,Wrong data type (should be str),Data Type,7266798642.0
-52,customers.csv,phone,Wrong data type (should be str),Data Type,9954968366.0
-53,customers.csv,phone,Wrong data type (should be str),Data Type,3531059459.0
-54,customers.csv,phone,Wrong data type (should be str),Data Type,
-55,customers.csv,phone,Wrong data type (should be str),Data Type,1622064352.0
-56,customers.csv,phone,Wrong data type (should be str),Data Type,6775002086.0
-57,customers.csv,phone,Wrong data type (should be str),Data Type,
-58,customers.csv,phone,Wrong data type (should be str),Data Type,9814128595.0
-59,customers.csv,phone,Wrong data type (should be str),Data Type,9077445586.0
-60,customers.csv,phone,Wrong data type (should be str),Data Type,1811704331.0
-61,customers.csv,phone,Wrong data type (should be str),Data Type,7507159498.0
+49,customers.csv,phone,Wrong data type (should be str/int),Data Type,5388267637.0
+50,customers.csv,phone,Wrong data type (should be str/int),Data Type,1428873001.0
+51,customers.csv,phone,Wrong data type (should be str/int),Data Type,7266798642.0
+52,customers.csv,phone,Wrong data type (should be str/int),Data Type,9954968366.0
+53,customers.csv,phone,Wrong data type (should be str/int),Data Type,3531059459.0
+54,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+55,customers.csv,phone,Wrong data type (should be str/int),Data Type,1622064352.0
+56,customers.csv,phone,Wrong data type (should be str/int),Data Type,6775002086.0
+57,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+58,customers.csv,phone,Wrong data type (should be str/int),Data Type,9814128595.0
+59,customers.csv,phone,Wrong data type (should be str/int),Data Type,9077445586.0
+60,customers.csv,phone,Wrong data type (should be str/int),Data Type,1811704331.0
+61,customers.csv,phone,Wrong data type (should be str/int),Data Type,7507159498.0
 62,customers.csv,email,Wrong data type (should be str),Data Type,
-62,customers.csv,phone,Wrong data type (should be str),Data Type,
-63,customers.csv,phone,Wrong data type (should be str),Data Type,3599920594.0
-64,customers.csv,phone,Wrong data type (should be str),Data Type,4682565667.0
-65,customers.csv,phone,Wrong data type (should be str),Data Type,7180853488.0
+62,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+63,customers.csv,phone,Wrong data type (should be str/int),Data Type,3599920594.0
+64,customers.csv,phone,Wrong data type (should be str/int),Data Type,4682565667.0
+65,customers.csv,phone,Wrong data type (should be str/int),Data Type,7180853488.0
 66,customers.csv,email,Wrong data type (should be str),Data Type,
-66,customers.csv,phone,Wrong data type (should be str),Data Type,5313865426.0
-67,customers.csv,phone,Wrong data type (should be str),Data Type,3336847076.0
+66,customers.csv,phone,Wrong data type (should be str/int),Data Type,5313865426.0
+67,customers.csv,phone,Wrong data type (should be str/int),Data Type,3336847076.0
 68,customers.csv,email,Wrong data type (should be str),Data Type,
-68,customers.csv,phone,Wrong data type (should be str),Data Type,9393026977.0
-69,customers.csv,phone,Wrong data type (should be str),Data Type,
-70,customers.csv,phone,Wrong data type (should be str),Data Type,7630824242.0
-71,customers.csv,phone,Wrong data type (should be str),Data Type,1875768798.0
-72,customers.csv,phone,Wrong data type (should be str),Data Type,
-73,customers.csv,phone,Wrong data type (should be str),Data Type,5184850179.0
-74,customers.csv,phone,Wrong data type (should be str),Data Type,9523843366.0
-75,customers.csv,phone,Wrong data type (should be str),Data Type,7572969385.0
-76,customers.csv,phone,Wrong data type (should be str),Data Type,539630138.0
-77,customers.csv,phone,Wrong data type (should be str),Data Type,5683535029.0
-78,customers.csv,phone,Wrong data type (should be str),Data Type,3854867646.0
-79,customers.csv,phone,Wrong data type (should be str),Data Type,1164738979.0
-80,customers.csv,phone,Wrong data type (should be str),Data Type,8450914485.0
-81,customers.csv,phone,Wrong data type (should be str),Data Type,3266652285.0
-82,customers.csv,phone,Wrong data type (should be str),Data Type,1867311579.0
+68,customers.csv,phone,Wrong data type (should be str/int),Data Type,9393026977.0
+69,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+70,customers.csv,phone,Wrong data type (should be str/int),Data Type,7630824242.0
+71,customers.csv,phone,Wrong data type (should be str/int),Data Type,1875768798.0
+72,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+73,customers.csv,phone,Wrong data type (should be str/int),Data Type,5184850179.0
+74,customers.csv,phone,Wrong data type (should be str/int),Data Type,9523843366.0
+75,customers.csv,phone,Wrong data type (should be str/int),Data Type,7572969385.0
+76,customers.csv,phone,Wrong data type (should be str/int),Data Type,539630138.0
+77,customers.csv,phone,Wrong data type (should be str/int),Data Type,5683535029.0
+78,customers.csv,phone,Wrong data type (should be str/int),Data Type,3854867646.0
+79,customers.csv,phone,Wrong data type (should be str/int),Data Type,1164738979.0
+80,customers.csv,phone,Wrong data type (should be str/int),Data Type,8450914485.0
+81,customers.csv,phone,Wrong data type (should be str/int),Data Type,3266652285.0
+82,customers.csv,phone,Wrong data type (should be str/int),Data Type,1867311579.0
 83,customers.csv,email,Wrong data type (should be str),Data Type,
-83,customers.csv,phone,Wrong data type (should be str),Data Type,8518723523.0
-84,customers.csv,phone,Wrong data type (should be str),Data Type,4444809181.0
+83,customers.csv,phone,Wrong data type (should be str/int),Data Type,8518723523.0
+84,customers.csv,phone,Wrong data type (should be str/int),Data Type,4444809181.0
 85,customers.csv,email,Wrong data type (should be str),Data Type,
-85,customers.csv,phone,Wrong data type (should be str),Data Type,7556575184.0
-86,customers.csv,phone,Wrong data type (should be str),Data Type,2476499327.0
-87,customers.csv,phone,Wrong data type (should be str),Data Type,6719348111.0
-88,customers.csv,phone,Wrong data type (should be str),Data Type,6844763752.0
+85,customers.csv,phone,Wrong data type (should be str/int),Data Type,7556575184.0
+86,customers.csv,phone,Wrong data type (should be str/int),Data Type,2476499327.0
+87,customers.csv,phone,Wrong data type (should be str/int),Data Type,6719348111.0
+88,customers.csv,phone,Wrong data type (should be str/int),Data Type,6844763752.0
 89,customers.csv,email,Wrong data type (should be str),Data Type,
-89,customers.csv,phone,Wrong data type (should be str),Data Type,8392230504.0
-90,customers.csv,phone,Wrong data type (should be str),Data Type,6034014790.0
-91,customers.csv,phone,Wrong data type (should be str),Data Type,
-92,customers.csv,phone,Wrong data type (should be str),Data Type,5458093860.0
+89,customers.csv,phone,Wrong data type (should be str/int),Data Type,8392230504.0
+90,customers.csv,phone,Wrong data type (should be str/int),Data Type,6034014790.0
+91,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+92,customers.csv,phone,Wrong data type (should be str/int),Data Type,5458093860.0
 93,customers.csv,email,Wrong data type (should be str),Data Type,
-93,customers.csv,phone,Wrong data type (should be str),Data Type,761745282.0
-94,customers.csv,phone,Wrong data type (should be str),Data Type,9099193211.0
-95,customers.csv,phone,Wrong data type (should be str),Data Type,6369971311.0
-96,customers.csv,phone,Wrong data type (should be str),Data Type,3239917700.0
-97,customers.csv,phone,Wrong data type (should be str),Data Type,8030424500.0
-98,customers.csv,phone,Wrong data type (should be str),Data Type,8606672201.0
-99,customers.csv,phone,Wrong data type (should be str),Data Type,8452758312.0
-100,customers.csv,phone,Wrong data type (should be str),Data Type,6354531628.0
-101,customers.csv,phone,Wrong data type (should be str),Data Type,8235488538.0
+93,customers.csv,phone,Wrong data type (should be str/int),Data Type,761745282.0
+94,customers.csv,phone,Wrong data type (should be str/int),Data Type,9099193211.0
+95,customers.csv,phone,Wrong data type (should be str/int),Data Type,6369971311.0
+96,customers.csv,phone,Wrong data type (should be str/int),Data Type,3239917700.0
+97,customers.csv,phone,Wrong data type (should be str/int),Data Type,8030424500.0
+98,customers.csv,phone,Wrong data type (should be str/int),Data Type,8606672201.0
+99,customers.csv,phone,Wrong data type (should be str/int),Data Type,8452758312.0
+100,customers.csv,phone,Wrong data type (should be str/int),Data Type,6354531628.0
+101,customers.csv,phone,Wrong data type (should be str/int),Data Type,8235488538.0
 102,customers.csv,email,Wrong data type (should be str),Data Type,
-102,customers.csv,phone,Wrong data type (should be str),Data Type,
-103,customers.csv,phone,Wrong data type (should be str),Data Type,1495095110.0
-104,customers.csv,phone,Wrong data type (should be str),Data Type,4377029134.0
-105,customers.csv,phone,Wrong data type (should be str),Data Type,
-106,customers.csv,phone,Wrong data type (should be str),Data Type,3376810999.0
-107,customers.csv,phone,Wrong data type (should be str),Data Type,4171395602.0
+102,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+103,customers.csv,phone,Wrong data type (should be str/int),Data Type,1495095110.0
+104,customers.csv,phone,Wrong data type (should be str/int),Data Type,4377029134.0
+105,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+106,customers.csv,phone,Wrong data type (should be str/int),Data Type,3376810999.0
+107,customers.csv,phone,Wrong data type (should be str/int),Data Type,4171395602.0
 108,customers.csv,email,Wrong data type (should be str),Data Type,
-108,customers.csv,phone,Wrong data type (should be str),Data Type,1059783400.0
-109,customers.csv,phone,Wrong data type (should be str),Data Type,
-110,customers.csv,phone,Wrong data type (should be str),Data Type,2593247184.0
-111,customers.csv,phone,Wrong data type (should be str),Data Type,4776684136.0
-112,customers.csv,phone,Wrong data type (should be str),Data Type,
-113,customers.csv,phone,Wrong data type (should be str),Data Type,2602300327.0
-114,customers.csv,phone,Wrong data type (should be str),Data Type,1398021812.0
-115,customers.csv,phone,Wrong data type (should be str),Data Type,9181084668.0
-116,customers.csv,phone,Wrong data type (should be str),Data Type,8563363738.0
-117,customers.csv,phone,Wrong data type (should be str),Data Type,6860470868.0
-118,customers.csv,phone,Wrong data type (should be str),Data Type,5536881583.0
-119,customers.csv,phone,Wrong data type (should be str),Data Type,3839317639.0
-120,customers.csv,phone,Wrong data type (should be str),Data Type,
-121,customers.csv,phone,Wrong data type (should be str),Data Type,8285025223.0
-122,customers.csv,phone,Wrong data type (should be str),Data Type,8078047742.0
+108,customers.csv,phone,Wrong data type (should be str/int),Data Type,1059783400.0
+109,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+110,customers.csv,phone,Wrong data type (should be str/int),Data Type,2593247184.0
+111,customers.csv,phone,Wrong data type (should be str/int),Data Type,4776684136.0
+112,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+113,customers.csv,phone,Wrong data type (should be str/int),Data Type,2602300327.0
+114,customers.csv,phone,Wrong data type (should be str/int),Data Type,1398021812.0
+115,customers.csv,phone,Wrong data type (should be str/int),Data Type,9181084668.0
+116,customers.csv,phone,Wrong data type (should be str/int),Data Type,8563363738.0
+117,customers.csv,phone,Wrong data type (should be str/int),Data Type,6860470868.0
+118,customers.csv,phone,Wrong data type (should be str/int),Data Type,5536881583.0
+119,customers.csv,phone,Wrong data type (should be str/int),Data Type,3839317639.0
+120,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+121,customers.csv,phone,Wrong data type (should be str/int),Data Type,8285025223.0
+122,customers.csv,phone,Wrong data type (should be str/int),Data Type,8078047742.0
 123,customers.csv,email,Wrong data type (should be str),Data Type,
-123,customers.csv,phone,Wrong data type (should be str),Data Type,23091286.0
-124,customers.csv,phone,Wrong data type (should be str),Data Type,928260990.0
+123,customers.csv,phone,Wrong data type (should be str/int),Data Type,23091286.0
+124,customers.csv,phone,Wrong data type (should be str/int),Data Type,928260990.0
 125,customers.csv,email,Wrong data type (should be str),Data Type,
-125,customers.csv,phone,Wrong data type (should be str),Data Type,4556502928.0
-126,customers.csv,phone,Wrong data type (should be str),Data Type,6156863473.0
-127,customers.csv,phone,Wrong data type (should be str),Data Type,6478817991.0
-128,customers.csv,phone,Wrong data type (should be str),Data Type,6257818001.0
-129,customers.csv,phone,Wrong data type (should be str),Data Type,6771905296.0
-130,customers.csv,phone,Wrong data type (should be str),Data Type,5719117247.0
-131,customers.csv,phone,Wrong data type (should be str),Data Type,1533107405.0
-132,customers.csv,phone,Wrong data type (should be str),Data Type,7933138155.0
-133,customers.csv,phone,Wrong data type (should be str),Data Type,5443956659.0
-134,customers.csv,phone,Wrong data type (should be str),Data Type,7328344068.0
-135,customers.csv,phone,Wrong data type (should be str),Data Type,1092795506.0
+125,customers.csv,phone,Wrong data type (should be str/int),Data Type,4556502928.0
+126,customers.csv,phone,Wrong data type (should be str/int),Data Type,6156863473.0
+127,customers.csv,phone,Wrong data type (should be str/int),Data Type,6478817991.0
+128,customers.csv,phone,Wrong data type (should be str/int),Data Type,6257818001.0
+129,customers.csv,phone,Wrong data type (should be str/int),Data Type,6771905296.0
+130,customers.csv,phone,Wrong data type (should be str/int),Data Type,5719117247.0
+131,customers.csv,phone,Wrong data type (should be str/int),Data Type,1533107405.0
+132,customers.csv,phone,Wrong data type (should be str/int),Data Type,7933138155.0
+133,customers.csv,phone,Wrong data type (should be str/int),Data Type,5443956659.0
+134,customers.csv,phone,Wrong data type (should be str/int),Data Type,7328344068.0
+135,customers.csv,phone,Wrong data type (should be str/int),Data Type,1092795506.0
 136,customers.csv,email,Wrong data type (should be str),Data Type,
-136,customers.csv,phone,Wrong data type (should be str),Data Type,9567172180.0
-137,customers.csv,phone,Wrong data type (should be str),Data Type,7065819383.0
-138,customers.csv,phone,Wrong data type (should be str),Data Type,2408904825.0
-139,customers.csv,phone,Wrong data type (should be str),Data Type,3494348407.0
-140,customers.csv,phone,Wrong data type (should be str),Data Type,7467469067.0
-141,customers.csv,phone,Wrong data type (should be str),Data Type,
-142,customers.csv,phone,Wrong data type (should be str),Data Type,8618075189.0
-143,customers.csv,phone,Wrong data type (should be str),Data Type,2126056654.0
-144,customers.csv,phone,Wrong data type (should be str),Data Type,1518443669.0
-145,customers.csv,phone,Wrong data type (should be str),Data Type,6153416916.0
-146,customers.csv,phone,Wrong data type (should be str),Data Type,7061400136.0
-147,customers.csv,phone,Wrong data type (should be str),Data Type,4047395252.0
-148,customers.csv,phone,Wrong data type (should be str),Data Type,5721392412.0
-149,customers.csv,phone,Wrong data type (should be str),Data Type,6041317241.0
-150,customers.csv,phone,Wrong data type (should be str),Data Type,7643395737.0
-151,customers.csv,phone,Wrong data type (should be str),Data Type,3002783719.0
-152,customers.csv,phone,Wrong data type (should be str),Data Type,4751064050.0
-153,customers.csv,phone,Wrong data type (should be str),Data Type,2782815094.0
-154,customers.csv,phone,Wrong data type (should be str),Data Type,6561484915.0
-155,customers.csv,phone,Wrong data type (should be str),Data Type,546404898.0
-156,customers.csv,phone,Wrong data type (should be str),Data Type,7507875603.0
-157,customers.csv,phone,Wrong data type (should be str),Data Type,3272448030.0
-158,customers.csv,phone,Wrong data type (should be str),Data Type,
-159,customers.csv,phone,Wrong data type (should be str),Data Type,7215746261.0
-160,customers.csv,phone,Wrong data type (should be str),Data Type,3912455390.0
-161,customers.csv,phone,Wrong data type (should be str),Data Type,2651768975.0
-162,customers.csv,phone,Wrong data type (should be str),Data Type,
-163,customers.csv,phone,Wrong data type (should be str),Data Type,9674344550.0
+136,customers.csv,phone,Wrong data type (should be str/int),Data Type,9567172180.0
+137,customers.csv,phone,Wrong data type (should be str/int),Data Type,7065819383.0
+138,customers.csv,phone,Wrong data type (should be str/int),Data Type,2408904825.0
+139,customers.csv,phone,Wrong data type (should be str/int),Data Type,3494348407.0
+140,customers.csv,phone,Wrong data type (should be str/int),Data Type,7467469067.0
+141,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+142,customers.csv,phone,Wrong data type (should be str/int),Data Type,8618075189.0
+143,customers.csv,phone,Wrong data type (should be str/int),Data Type,2126056654.0
+144,customers.csv,phone,Wrong data type (should be str/int),Data Type,1518443669.0
+145,customers.csv,phone,Wrong data type (should be str/int),Data Type,6153416916.0
+146,customers.csv,phone,Wrong data type (should be str/int),Data Type,7061400136.0
+147,customers.csv,phone,Wrong data type (should be str/int),Data Type,4047395252.0
+148,customers.csv,phone,Wrong data type (should be str/int),Data Type,5721392412.0
+149,customers.csv,phone,Wrong data type (should be str/int),Data Type,6041317241.0
+150,customers.csv,phone,Wrong data type (should be str/int),Data Type,7643395737.0
+151,customers.csv,phone,Wrong data type (should be str/int),Data Type,3002783719.0
+152,customers.csv,phone,Wrong data type (should be str/int),Data Type,4751064050.0
+153,customers.csv,phone,Wrong data type (should be str/int),Data Type,2782815094.0
+154,customers.csv,phone,Wrong data type (should be str/int),Data Type,6561484915.0
+155,customers.csv,phone,Wrong data type (should be str/int),Data Type,546404898.0
+156,customers.csv,phone,Wrong data type (should be str/int),Data Type,7507875603.0
+157,customers.csv,phone,Wrong data type (should be str/int),Data Type,3272448030.0
+158,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+159,customers.csv,phone,Wrong data type (should be str/int),Data Type,7215746261.0
+160,customers.csv,phone,Wrong data type (should be str/int),Data Type,3912455390.0
+161,customers.csv,phone,Wrong data type (should be str/int),Data Type,2651768975.0
+162,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+163,customers.csv,phone,Wrong data type (should be str/int),Data Type,9674344550.0
 164,customers.csv,email,Wrong data type (should be str),Data Type,
-164,customers.csv,phone,Wrong data type (should be str),Data Type,9409020396.0
-165,customers.csv,phone,Wrong data type (should be str),Data Type,2492221864.0
-166,customers.csv,phone,Wrong data type (should be str),Data Type,7565145659.0
+164,customers.csv,phone,Wrong data type (should be str/int),Data Type,9409020396.0
+165,customers.csv,phone,Wrong data type (should be str/int),Data Type,2492221864.0
+166,customers.csv,phone,Wrong data type (should be str/int),Data Type,7565145659.0
 167,customers.csv,email,Wrong data type (should be str),Data Type,
-167,customers.csv,phone,Wrong data type (should be str),Data Type,1933492581.0
-168,customers.csv,phone,Wrong data type (should be str),Data Type,5879176924.0
-169,customers.csv,phone,Wrong data type (should be str),Data Type,4427264902.0
+167,customers.csv,phone,Wrong data type (should be str/int),Data Type,1933492581.0
+168,customers.csv,phone,Wrong data type (should be str/int),Data Type,5879176924.0
+169,customers.csv,phone,Wrong data type (should be str/int),Data Type,4427264902.0
 170,customers.csv,email,Wrong data type (should be str),Data Type,
-170,customers.csv,phone,Wrong data type (should be str),Data Type,5836440087.0
+170,customers.csv,phone,Wrong data type (should be str/int),Data Type,5836440087.0
 171,customers.csv,email,Wrong data type (should be str),Data Type,
-171,customers.csv,phone,Wrong data type (should be str),Data Type,9231309036.0
-172,customers.csv,phone,Wrong data type (should be str),Data Type,5181349734.0
+171,customers.csv,phone,Wrong data type (should be str/int),Data Type,9231309036.0
+172,customers.csv,phone,Wrong data type (should be str/int),Data Type,5181349734.0
 173,customers.csv,email,Wrong data type (should be str),Data Type,
-173,customers.csv,phone,Wrong data type (should be str),Data Type,9184462888.0
-174,customers.csv,phone,Wrong data type (should be str),Data Type,1021547537.0
-175,customers.csv,phone,Wrong data type (should be str),Data Type,2583895890.0
-176,customers.csv,phone,Wrong data type (should be str),Data Type,963071565.0
-177,customers.csv,phone,Wrong data type (should be str),Data Type,5473404015.0
-178,customers.csv,phone,Wrong data type (should be str),Data Type,8892133398.0
-179,customers.csv,phone,Wrong data type (should be str),Data Type,
-180,customers.csv,phone,Wrong data type (should be str),Data Type,
-181,customers.csv,phone,Wrong data type (should be str),Data Type,4709746923.0
-182,customers.csv,phone,Wrong data type (should be str),Data Type,1190890071.0
-183,customers.csv,phone,Wrong data type (should be str),Data Type,3577705588.0
-184,customers.csv,phone,Wrong data type (should be str),Data Type,7939015890.0
-185,customers.csv,phone,Wrong data type (should be str),Data Type,3558043989.0
+173,customers.csv,phone,Wrong data type (should be str/int),Data Type,9184462888.0
+174,customers.csv,phone,Wrong data type (should be str/int),Data Type,1021547537.0
+175,customers.csv,phone,Wrong data type (should be str/int),Data Type,2583895890.0
+176,customers.csv,phone,Wrong data type (should be str/int),Data Type,963071565.0
+177,customers.csv,phone,Wrong data type (should be str/int),Data Type,5473404015.0
+178,customers.csv,phone,Wrong data type (should be str/int),Data Type,8892133398.0
+179,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+180,customers.csv,phone,Wrong data type (should be str/int),Data Type,
+181,customers.csv,phone,Wrong data type (should be str/int),Data Type,4709746923.0
+182,customers.csv,phone,Wrong data type (should be str/int),Data Type,1190890071.0
+183,customers.csv,phone,Wrong data type (should be str/int),Data Type,3577705588.0
+184,customers.csv,phone,Wrong data type (should be str/int),Data Type,7939015890.0
+185,customers.csv,phone,Wrong data type (should be str/int),Data Type,3558043989.0
 186,customers.csv,email,Wrong data type (should be str),Data Type,
-186,customers.csv,phone,Wrong data type (should be str),Data Type,6874759093.0
-187,customers.csv,phone,Wrong data type (should be str),Data Type,132093548.0
-188,customers.csv,phone,Wrong data type (should be str),Data Type,137229332.0
-189,customers.csv,phone,Wrong data type (should be str),Data Type,8409193699.0
-190,customers.csv,phone,Wrong data type (should be str),Data Type,364901833.0
+186,customers.csv,phone,Wrong data type (should be str/int),Data Type,6874759093.0
+187,customers.csv,phone,Wrong data type (should be str/int),Data Type,132093548.0
+188,customers.csv,phone,Wrong data type (should be str/int),Data Type,137229332.0
+189,customers.csv,phone,Wrong data type (should be str/int),Data Type,8409193699.0
+190,customers.csv,phone,Wrong data type (should be str/int),Data Type,364901833.0
 191,customers.csv,email,Wrong data type (should be str),Data Type,
-191,customers.csv,phone,Wrong data type (should be str),Data Type,7275393816.0
-192,customers.csv,phone,Wrong data type (should be str),Data Type,7894222974.0
-193,customers.csv,phone,Wrong data type (should be str),Data Type,6477456156.0
-194,customers.csv,phone,Wrong data type (should be str),Data Type,4355192931.0
-195,customers.csv,phone,Wrong data type (should be str),Data Type,6271516308.0
-196,customers.csv,phone,Wrong data type (should be str),Data Type,5032174730.0
-197,customers.csv,phone,Wrong data type (should be str),Data Type,448163085.0
-198,customers.csv,phone,Wrong data type (should be str),Data Type,2760178060.0
-199,customers.csv,phone,Wrong data type (should be str),Data Type,4706939970.0
-200,customers.csv,phone,Wrong data type (should be str),Data Type,5443956659.0
-201,customers.csv,phone,Wrong data type (should be str),Data Type,7467469067.0
-202,customers.csv,phone,Wrong data type (should be str),Data Type,8235488538.0
-203,customers.csv,phone,Wrong data type (should be str),Data Type,6771905296.0
-204,customers.csv,phone,Wrong data type (should be str),Data Type,6369971311.0
-205,customers.csv,phone,Wrong data type (should be str),Data Type,
+191,customers.csv,phone,Wrong data type (should be str/int),Data Type,7275393816.0
+192,customers.csv,phone,Wrong data type (should be str/int),Data Type,7894222974.0
+193,customers.csv,phone,Wrong data type (should be str/int),Data Type,6477456156.0
+194,customers.csv,phone,Wrong data type (should be str/int),Data Type,4355192931.0
+195,customers.csv,phone,Wrong data type (should be str/int),Data Type,6271516308.0
+196,customers.csv,phone,Wrong data type (should be str/int),Data Type,5032174730.0
+197,customers.csv,phone,Wrong data type (should be str/int),Data Type,448163085.0
+198,customers.csv,phone,Wrong data type (should be str/int),Data Type,2760178060.0
+199,customers.csv,phone,Wrong data type (should be str/int),Data Type,4706939970.0
+200,customers.csv,phone,Wrong data type (should be str/int),Data Type,5443956659.0
+201,customers.csv,phone,Wrong data type (should be str/int),Data Type,7467469067.0
+202,customers.csv,phone,Wrong data type (should be str/int),Data Type,8235488538.0
+203,customers.csv,phone,Wrong data type (should be str/int),Data Type,6771905296.0
+204,customers.csv,phone,Wrong data type (should be str/int),Data Type,6369971311.0
+205,customers.csv,phone,Wrong data type (should be str/int),Data Type,
 206,customers.csv,email,Wrong data type (should be str),Data Type,
-206,customers.csv,phone,Wrong data type (should be str),Data Type,9524381849.0
-207,customers.csv,phone,Wrong data type (should be str),Data Type,539630138.0
-208,customers.csv,phone,Wrong data type (should be str),Data Type,6184004342.0
+206,customers.csv,phone,Wrong data type (should be str/int),Data Type,9524381849.0
+207,customers.csv,phone,Wrong data type (should be str/int),Data Type,539630138.0
+208,customers.csv,phone,Wrong data type (should be str/int),Data Type,6184004342.0
 209,customers.csv,email,Wrong data type (should be str),Data Type,
-209,customers.csv,phone,Wrong data type (should be str),Data Type,1933492581.0
+209,customers.csv,phone,Wrong data type (should be str/int),Data Type,1933492581.0
 0,products.csv,price,Wrong data type (should be numeric),Data Type,1152
 1,products.csv,price,Wrong data type (should be numeric),Data Type,1060
 2,products.csv,price,Wrong data type (should be numeric),Data Type,1292
