@@ -632,7 +632,6 @@ row_num,file,column,issue,dimension,example
 466,orders.csv,order_date,Future order date,Timeliness,2025-11-06
 472,orders.csv,order_date,Future order date,Timeliness,2025-12-04
 495,orders.csv,order_date,Future order date,Timeliness,2026-07-02
-530,orders.csv,order_date,Future order date,Timeliness,2025-10-29
 580,orders.csv,order_date,Future order date,Timeliness,2026-02-26
 664,orders.csv,order_date,Future order date,Timeliness,2026-01-29
 716,orders.csv,order_date,Future order date,Timeliness,2026-02-16
