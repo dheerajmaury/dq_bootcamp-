@@ -593,7 +593,4 @@ Data Quality Checks – Summary
 13. Quantity × Price Mismatch – Total amounts for some orders do not match quantity × price. (Accuracy)
 14. Orphan Product References – Some orders reference products that are missing in the catalog. (Consistency)
 15. Invalid Data Types – Certain fields contain values that do not match the expected data type. (Validity)
-git add day2_sql_tests.md
-git commit -m "Day 2 – Warehouse Layer SQL Tests"
-git push
-```
+
